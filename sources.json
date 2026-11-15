@@ -1,20 +1,10 @@
 {
   "name": "CloudStream Süper Repo",
-  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, DiziPal VIP korumalı, Anti-Break ve CDN korumalı otonom süper repo.",
+  "description": "En güncel Türkçe CloudStream eklentilerini (cs3) birleştiren, DiziPal VIP korumalı, Anti-Break ve sıfır önbellek gecikmeli otonom süper repo.",
   "branch": "main",
   "default_github_user": "MrKonce",
   "default_github_repo": "ozel-cs-repom",
   "domain_source_url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/domains.json",
-  "global_whitelist": [
-    "netflix",
-    "netflixmirror",
-    "primevideo",
-    "prime",
-    "disney",
-    "twitch",
-    "superstream",
-    "youtube"
-  ],
   "blacklist": [
     "KralMuzik",
     "FilmModu_TurkSinema",
@@ -57,20 +47,6 @@
       "priority": 5,
       "enabled": true,
       "language": "tr"
-    },
-    {
-      "name": "Phisher Global",
-      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
-      "priority": 6,
-      "enabled": true,
-      "language": "multi"
-    },
-    {
-      "name": "Megix CSX Global",
-      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json",
-      "priority": 7,
-      "enabled": true,
-      "language": "en"
     }
   ]
 }

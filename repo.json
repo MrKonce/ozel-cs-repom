@@ -1,9 +1,8 @@
 {
   "name": "CloudStream Süper Repo",
-  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, DiziPal VIP korumalı, Anti-Break ve CDN korumalı otonom süper repo.",
+  "description": "En güncel Türkçe CloudStream eklentilerini (cs3) birleştiren, DiziPal VIP korumalı, Anti-Break ve sıfır önbellek gecikmeli otonom süper repo.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/plugins.json",
-    "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/plugins.json"
+    "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/plugins.json"
   ]
 }

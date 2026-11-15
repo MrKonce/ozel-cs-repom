@@ -1,1122 +1,1448 @@
 [
   {
-    "name": "Youku",
-    "internalName": "Youku",
+    "name": "AsidbDrama",
+    "internalName": "AsidbDrama",
     "source": "TurkSinema",
-    "version": 1,
-    "reason": "Yabancı dil filtresi (zh)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "AllMovieLandProvider",
-    "internalName": "AllMovieLandProvider",
-    "source": "Phisher Global",
-    "version": 25,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "AllWish",
-    "internalName": "AllWish",
-    "source": "Phisher Global",
-    "version": 18,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Anichi",
-    "internalName": "Anichi",
-    "source": "Phisher Global",
-    "version": 29,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Anikage",
-    "internalName": "Anikage",
-    "source": "Phisher Global",
-    "version": 8,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "AniKoto",
-    "internalName": "AniKoto",
-    "source": "Phisher Global",
-    "version": 7,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Anilight",
-    "internalName": "Anilight",
-    "source": "Phisher Global",
-    "version": 4,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Animeav1",
-    "internalName": "Animeav1",
-    "source": "Phisher Global",
-    "version": 10,
-    "reason": "Global repo yabancı dil / filtrelendi (mx)"
-  },
-  {
-    "name": "AnimeCloud",
-    "internalName": "AnimeCloud",
-    "source": "Phisher Global",
-    "version": 11,
-    "reason": "Global repo yabancı dil / filtrelendi (de)"
-  },
-  {
-    "name": "AnimeDekhoProvider",
-    "internalName": "AnimeDekhoProvider",
-    "source": "Phisher Global",
-    "version": 73,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Animedubhindi",
-    "internalName": "Animedubhindi",
-    "source": "Phisher Global",
-    "version": 9,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Animekhor",
-    "internalName": "Animekhor",
-    "source": "Phisher Global",
-    "version": 13,
-    "reason": "Global repo yabancı dil / filtrelendi (zh)"
-  },
-  {
-    "name": "Animenosub",
-    "internalName": "Animenosub",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "AnimePahe",
-    "internalName": "AnimePahe",
-    "source": "Phisher Global",
-    "version": 55,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Animesalt",
-    "internalName": "Animesalt",
-    "source": "Phisher Global",
-    "version": 18,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Animexin",
-    "internalName": "Animexin",
-    "source": "Phisher Global",
-    "version": 23,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "AniPm",
-    "internalName": "AniPm",
-    "source": "Phisher Global",
-    "version": 1,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "AniSnatch",
-    "internalName": "AniSnatch",
-    "source": "Phisher Global",
-    "version": 2,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "AniVortex",
-    "internalName": "AniVortex",
-    "source": "Phisher Global",
-    "version": 15,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Aniworld",
-    "internalName": "Aniworld",
-    "source": "Phisher Global",
-    "version": 22,
-    "reason": "Global repo yabancı dil / filtrelendi (de)"
-  },
-  {
-    "name": "Anizone",
-    "internalName": "Anizone",
-    "source": "Phisher Global",
-    "version": 15,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "BanglaPlex",
-    "internalName": "BanglaPlex",
-    "source": "Phisher Global",
-    "version": 8,
-    "reason": "Global repo yabancı dil / filtrelendi (bn)"
-  },
-  {
-    "name": "Chikianimation",
-    "internalName": "Chikianimation",
-    "source": "Phisher Global",
-    "version": 2,
-    "reason": "Global repo yabancı dil / filtrelendi (zh)"
-  },
-  {
-    "name": "Cinefreak",
-    "internalName": "Cinefreak",
-    "source": "Phisher Global",
-    "version": 23,
-    "reason": "Global repo yabancı dil / filtrelendi (bn)"
-  },
-  {
-    "name": "Cinemacity",
-    "internalName": "Cinemacity",
-    "source": "Phisher Global",
-    "version": 30,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Coflix",
-    "internalName": "Coflix",
-    "source": "Phisher Global",
-    "version": 20,
-    "reason": "Global repo yabancı dil / filtrelendi (fr)"
-  },
-  {
-    "name": "Comix",
-    "internalName": "Comix",
-    "source": "Phisher Global",
-    "version": 6,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Desicinemas",
-    "internalName": "Desicinemas",
-    "source": "Phisher Global",
-    "version": 19,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Donghuastream",
-    "internalName": "Donghuastream",
-    "source": "Phisher Global",
-    "version": 22,
-    "reason": "Global repo yabancı dil / filtrelendi (zh)"
-  },
-  {
-    "name": "DoraBash",
-    "internalName": "DoraBash",
-    "source": "Phisher Global",
-    "version": 19,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "DudeFilms",
-    "internalName": "DudeFilms",
-    "source": "Phisher Global",
-    "version": 14,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Fibwatch",
-    "internalName": "Fibwatch",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (bn)"
-  },
-  {
-    "name": "Fivemovierulz",
-    "internalName": "Fivemovierulz",
-    "source": "Phisher Global",
-    "version": 10,
-    "reason": "Global repo yabancı dil / filtrelendi (ta)"
-  },
-  {
-    "name": "FourKHDHub",
-    "internalName": "FourKHDHub",
-    "source": "Phisher Global",
-    "version": 41,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "GoldenAudiobooks",
-    "internalName": "GoldenAudiobooks",
-    "source": "Phisher Global",
-    "version": 1,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Goojara",
-    "internalName": "Goojara",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "HDhub4u",
-    "internalName": "HDhub4u",
-    "source": "Phisher Global",
-    "version": 57,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Hdmovie2",
-    "internalName": "Hdmovie2",
-    "source": "Phisher Global",
-    "version": 7,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "HiAnime",
-    "internalName": "HiAnime",
-    "source": "Phisher Global",
-    "version": 2,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Hindmoviez",
-    "internalName": "Hindmoviez",
-    "source": "Phisher Global",
-    "version": 17,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "IdlixProvider",
-    "internalName": "IdlixProvider",
-    "source": "Phisher Global",
-    "version": 25,
-    "reason": "Global repo yabancı dil / filtrelendi (id)"
-  },
-  {
-    "name": "IPTVPlayer",
-    "internalName": "IPTVPlayer",
-    "source": "Phisher Global",
-    "version": 9,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "IStreamFlare",
-    "internalName": "IStreamFlare",
-    "source": "Phisher Global",
-    "version": 6,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Jellyfin",
-    "internalName": "Jellyfin",
-    "source": "Phisher Global",
-    "version": 9,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Kartoons",
-    "internalName": "Kartoons",
-    "source": "Phisher Global",
-    "version": 13,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Kickassanime",
-    "internalName": "Kickassanime",
-    "source": "Phisher Global",
-    "version": 29,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "KisskhProvider",
-    "internalName": "KisskhProvider",
-    "source": "Phisher Global",
-    "version": 24,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Latanime",
-    "internalName": "Latanime",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (mx)"
-  },
-  {
-    "name": "LayarKacaProvider",
-    "internalName": "LayarKacaProvider",
-    "source": "Phisher Global",
-    "version": 10,
-    "reason": "Global repo yabancı dil / filtrelendi (id)"
-  },
-  {
-    "name": "MassTamilanProvider",
-    "internalName": "MassTamilanProvider",
-    "source": "Phisher Global",
-    "version": 9,
-    "reason": "Global repo yabancı dil / filtrelendi (ta)"
-  },
-  {
-    "name": "Megakino",
-    "internalName": "Megakino",
-    "source": "Phisher Global",
-    "version": 6,
-    "reason": "Global repo yabancı dil / filtrelendi (de)"
-  },
-  {
-    "name": "Microtv",
-    "internalName": "Microtv",
-    "source": "Phisher Global",
-    "version": 3,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "MovieBoxProvider",
-    "internalName": "MovieBoxProvider",
-    "source": "Phisher Global",
-    "version": 41,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Movies4u",
-    "internalName": "Movies4u",
-    "source": "Phisher Global",
-    "version": 18,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "MultiMoviesProvider",
-    "internalName": "MultiMoviesProvider",
-    "source": "Phisher Global",
-    "version": 55,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Netcinez",
-    "internalName": "Netcinez",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (pt-br)"
-  },
-  {
-    "name": "ObejrzyjTo",
-    "internalName": "ObejrzyjTo",
-    "source": "Phisher Global",
-    "version": 3,
-    "reason": "Global repo yabancı dil / filtrelendi (pl)"
-  },
-  {
-    "name": "OHLI24",
-    "internalName": "OHLI24",
-    "source": "Phisher Global",
-    "version": 7,
-    "reason": "Global repo yabancı dil / filtrelendi (ko)"
-  },
-  {
-    "name": "OnePace",
-    "internalName": "OnePace",
-    "source": "Phisher Global",
-    "version": 24,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "OneTouchTV",
-    "internalName": "OneTouchTV",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Pencurimovie",
-    "internalName": "Pencurimovie",
-    "source": "Phisher Global",
-    "version": 8,
-    "reason": "Global repo yabancı dil / filtrelendi (id)"
-  },
-  {
-    "name": "Pinoymoviepedia",
-    "internalName": "Pinoymoviepedia",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (fil)"
-  },
-  {
-    "name": "Piratexplay",
-    "internalName": "Piratexplay",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Pmsm",
-    "internalName": "Pmsm",
-    "source": "Phisher Global",
-    "version": 8,
-    "reason": "Global repo yabancı dil / filtrelendi (id)"
-  },
-  {
-    "name": "PublicSportsIPTV",
-    "internalName": "PublicSportsIPTV",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "QuickIPTV",
-    "internalName": "QuickIPTV",
-    "source": "Phisher Global",
-    "version": 8,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Reanime",
-    "internalName": "Reanime",
-    "source": "Phisher Global",
-    "version": 3,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "RingZ",
-    "internalName": "RingZ",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "ShowBox",
-    "internalName": "ShowBox",
-    "source": "Phisher Global",
-    "version": 15,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "StreamPlay",
-    "internalName": "StreamPlay",
-    "source": "Phisher Global",
-    "version": 709,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "StremioAddon",
-    "internalName": "StremioAddon",
-    "source": "Phisher Global",
-    "version": 17,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "StremioX",
-    "internalName": "StremioX",
-    "source": "Phisher Global",
-    "version": 28,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Tamilblasters",
-    "internalName": "Tamilblasters",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (ta)"
-  },
-  {
-    "name": "ToonHub",
-    "internalName": "ToonHub",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Toonstream",
-    "internalName": "Toonstream",
-    "source": "Phisher Global",
-    "version": 12,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "ToonTales",
-    "internalName": "ToonTales",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Topcartoons",
-    "internalName": "Topcartoons",
-    "source": "Phisher Global",
-    "version": 5,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Topstreamfilm",
-    "internalName": "Topstreamfilm",
-    "source": "Phisher Global",
-    "version": 9,
-    "reason": "Global repo yabancı dil / filtrelendi (de)"
-  },
-  {
-    "name": "TorraStream",
-    "internalName": "TorraStream",
-    "source": "Phisher Global",
-    "version": 98,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "UHDmoviesProvider",
-    "internalName": "UHDmoviesProvider",
-    "source": "Phisher Global",
-    "version": 45,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "Ultima",
-    "internalName": "Ultima",
-    "source": "Phisher Global",
-    "version": 71,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "WatchParty",
-    "internalName": "WatchParty",
-    "source": "Phisher Global",
-    "version": 2,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "XDMovies",
-    "internalName": "XDMovies",
-    "source": "Phisher Global",
-    "version": 29,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "XonProvider",
-    "internalName": "XonProvider",
-    "source": "Phisher Global",
-    "version": 11,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "YTS",
-    "internalName": "YTS",
-    "source": "Phisher Global",
-    "version": 11,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "ZDKSerials",
-    "internalName": "ZDKSerials",
-    "source": "Phisher Global",
-    "version": 2,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Zinkmovies",
-    "internalName": "Zinkmovies",
-    "source": "Phisher Global",
-    "version": 13,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Bollyflix",
-    "internalName": "Bollyflix",
-    "source": "Megix CSX Global",
-    "version": 33,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "CineStream",
-    "internalName": "CineStream",
-    "source": "Megix CSX Global",
-    "version": 487,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "MoviesDrive",
-    "internalName": "MoviesDrive",
-    "source": "Megix CSX Global",
-    "version": 33,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "Moviesmod",
-    "internalName": "Moviesmod",
-    "source": "Megix CSX Global",
-    "version": 33,
-    "reason": "Global repo yabancı dil / filtrelendi (en)"
-  },
-  {
-    "name": "VegaMovies",
-    "internalName": "VegaMovies",
-    "source": "Megix CSX Global",
-    "version": 82,
-    "reason": "Global repo yabancı dil / filtrelendi (hi)"
-  },
-  {
-    "name": "AltiYuzAltmisAltiFilmIzle",
-    "internalName": "AltiYuzAltmisAltiFilmIzle",
+    "name": "CineCat",
+    "internalName": "CineCat",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "BelgeselX",
-    "internalName": "BelgeselX",
-    "source": "Feroxx Kekik",
-    "version": 17,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "BelgeselX",
-    "internalName": "BelgeselX",
-    "source": "BTVault",
-    "version": 4,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "CizgiMax",
-    "internalName": "CizgiMax",
-    "source": "Feroxx Kekik",
-    "version": 17,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "DDizi",
-    "internalName": "DDizi",
+    "name": "CineSimkl",
+    "internalName": "CineSimkl",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "DDiziAlternatif",
-    "internalName": "DDiziAlternatif",
+    "name": "CizgiDiziNet",
+    "internalName": "CizgiDiziNet",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "DDizi",
-    "internalName": "DDizi",
-    "source": "BTVault",
-    "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
-  },
-  {
-    "name": "DDizi",
-    "internalName": "DDizi",
-    "source": "Ripplay",
-    "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
-  },
-  {
-    "name": "DiziBox",
-    "internalName": "DiziBox",
+    "name": "CizgiFilmIzleInfo",
+    "internalName": "CizgiFilmIzleInfo",
     "source": "TurkSinema",
-    "version": 11,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziBox v26)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "DiziBox",
-    "internalName": "DiziBox",
-    "source": "Ripplay",
-    "version": 11,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziBox v26)"
-  },
-  {
-    "name": "DiziBox",
-    "internalName": "DiziBox",
-    "source": "BTVault",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziBox v26)"
-  },
-  {
-    "name": "Dizilla",
-    "internalName": "Dizilla",
-    "source": "Feroxx Kekik",
-    "version": 95,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "DiziMom",
-    "internalName": "DiziMom",
-    "source": "Ripplay",
-    "version": 29,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziMom v64)"
-  },
-  {
-    "name": "DiziMom",
-    "internalName": "DiziMom",
+    "name": "CizgiFilmTv",
+    "internalName": "CizgiFilmTv",
     "source": "TurkSinema",
-    "version": 10,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziMom v64)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "DiziYou",
-    "internalName": "DiziYou",
+    "name": "CizgiPortal",
+    "internalName": "CizgiPortal",
     "source": "TurkSinema",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziYou v26)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "DiziYou",
-    "internalName": "DiziYou",
-    "source": "BTVault",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziYou v26)"
-  },
-  {
-    "name": "DMax",
-    "internalName": "DMax",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Dmax v1)"
-  },
-  {
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
-    "source": "Ripplay",
-    "version": 26,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
+    "name": "CizgiSite",
+    "internalName": "CizgiSite",
     "source": "TurkSinema",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmMakinesi v59)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
-    "source": "BTVault",
-    "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmMakinesi v59)"
-  },
-  {
-    "name": "FilmModu",
-    "internalName": "FilmModu",
-    "source": "Ripplay",
-    "version": 16,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmModu v19)"
-  },
-  {
-    "name": "FilmModu",
-    "internalName": "FilmModu",
-    "source": "BTVault",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmModu v19)"
-  },
-  {
-    "name": "FilmModu",
-    "internalName": "FilmModu",
+    "name": "CizgiVeDizi",
+    "internalName": "CizgiVeDizi",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmModu v19)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "FullHDFilm",
-    "internalName": "FullHDFilm",
+    "name": "ClipBox",
+    "internalName": "ClipBox",
     "source": "TurkSinema",
-    "version": 10,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FullHDFilm v36)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
-    "source": "Ripplay",
-    "version": 12,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FullHDFilmizlesene v33)"
-  },
-  {
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
+    "name": "DmaxDrama",
+    "internalName": "DmaxDrama",
     "source": "TurkSinema",
-    "version": 11,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FullHDFilmizlesene v33)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "source": "Feroxx Kekik",
-    "version": 58,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
+    "name": "Donkey",
+    "internalName": "Donkey",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "HDFilmCehennemi2",
-    "internalName": "HDFilmCehennemi2",
-    "source": "BTVault",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
-  },
-  {
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
-  },
-  {
-    "name": "HDFilmDelisi",
-    "internalName": "HDFilmDelisi",
-    "source": "Feroxx Kekik",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmDelisi v7)"
-  },
-  {
-    "name": "InatBox",
-    "internalName": "InatBox",
+    "name": "DramaBox",
+    "internalName": "DramaBox",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (InatBox v30)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "JetFilmizle",
-    "internalName": "JetFilmizle",
-    "source": "Ripplay",
-    "version": 33,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (JetFilmizle v48)"
-  },
-  {
-    "name": "JetFilmizle",
-    "internalName": "JetFilmizle",
-    "source": "BTVault",
-    "version": 21,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (JetFilmizle v48)"
-  },
-  {
-    "name": "JetFilmizle",
-    "internalName": "JetFilmizle",
+    "name": "DramaDunyam",
+    "internalName": "DramaDunyam",
     "source": "TurkSinema",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (JetFilmizle v48)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "KultFilmler",
-    "internalName": "KultFilmler",
+    "name": "DramaFlix",
+    "internalName": "DramaFlix",
     "source": "TurkSinema",
-    "version": 7,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (KultFilmler v16)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "KultFilmler",
-    "internalName": "KultFilmler",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (KultFilmler v16)"
-  },
-  {
-    "name": "NewTVLive",
-    "internalName": "NewTVLive",
+    "name": "EloDrama",
+    "internalName": "EloDrama",
     "source": "TurkSinema",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (NewTVLive v4)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "powerSinema",
-    "internalName": "powerSinema",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (PowerSinema v1)"
-  },
-  {
-    "name": "RareFilmm",
-    "internalName": "RareFilmm",
-    "source": "Feroxx Kekik",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (RareFilmm v7)"
-  },
-  {
-    "name": "RareFilmm",
-    "internalName": "RareFilmm",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (RareFilmm v7)"
-  },
-  {
-    "name": "RecTV",
-    "internalName": "RecTV",
+    "name": "FilmIzzle",
+    "internalName": "FilmIzzle",
     "source": "TurkSinema",
-    "version": 6,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (RecTV v118)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
+    "name": "FlickReels",
+    "internalName": "FlickReels",
     "source": "TurkSinema",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SelcukSports v12)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "source": "Feroxx Kekik",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SelcukSports v12)"
-  },
-  {
-    "name": "SetFilmIzle",
-    "internalName": "SetFilmIzle",
-    "source": "Feroxx Kekik",
-    "version": 32,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
-  },
-  {
-    "name": "SezonlukDizi",
-    "internalName": "SezonlukDizi",
-    "source": "Feroxx Kekik",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SezonlukDizi v10)"
-  },
-  {
-    "name": "SezonlukDizi",
-    "internalName": "SezonlukDizi",
-    "source": "BTVault",
-    "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SezonlukDizi v10)"
-  },
-  {
-    "name": "SinemaCX",
-    "internalName": "SinemaCX",
-    "source": "Ripplay",
-    "version": 15,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "SinemaCX",
-    "internalName": "SinemaCX",
+    "name": "FreeDrama",
+    "internalName": "FreeDrama",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SinemaCX v26)"
+    "reason": "Kısa drama / spam filtresi"
   },
   {
-    "name": "Tlctr",
-    "internalName": "Tlctr",
+    "name": "GreatDrama",
+    "internalName": "GreatDrama",
     "source": "TurkSinema",
-    "version": 7,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (TLCtr v19)"
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "HiDrama",
+    "internalName": "HiDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "LiderFilmIzle",
+    "internalName": "LiderFilmIzle",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "LightFlix",
+    "internalName": "LightFlix",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "LoveDrama",
+    "internalName": "LoveDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "Mapple",
+    "internalName": "Mapple",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "McDrama",
+    "internalName": "McDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MicroDrama",
+    "internalName": "MicroDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MiniDiziIzle",
+    "internalName": "MiniDiziIzle",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "MinuteDrama",
+    "internalName": "MinuteDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MoreShort",
+    "internalName": "MoreShort",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MtDrama",
+    "internalName": "MtDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MuseDrama",
+    "internalName": "MuseDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "MyDrama",
+    "internalName": "MyDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "NetFilmizle",
+    "internalName": "NetFilmizle",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "OiDrama",
+    "internalName": "OiDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "PowerSinema",
+    "internalName": "PowerSinema",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "SevenReels",
+    "internalName": "SevenReels",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "Shortizle",
+    "internalName": "Shortizle",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "ShortMax",
+    "internalName": "ShortMax",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "ShortsWave",
+    "internalName": "ShortsWave",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "ShotShort",
+    "internalName": "ShotShort",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "StardustTV",
+    "internalName": "StardustTV",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "TryDrama",
+    "internalName": "TryDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "Velarium",
+    "internalName": "Velarium",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "VibeShort",
+    "internalName": "VibeShort",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
   },
   {
     "name": "Watch2Movies",
     "internalName": "Watch2Movies",
-    "source": "Feroxx Kekik",
-    "version": 6,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Watch2Movies v8)"
-  },
-  {
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
-    "source": "BTVault",
-    "version": 17,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (WebteIzle v21)"
-  },
-  {
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
     "source": "TurkSinema",
-    "version": 16,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (WebteIzle v21)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "WioSpor",
-    "internalName": "WioSpor",
+    "name": "WioCinema",
+    "internalName": "WioCinema",
     "source": "TurkSinema",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (WioSpor v56)"
+    "reason": "Yabancı dil filtresi (en)"
   },
   {
-    "name": "YabanciDizi",
-    "internalName": "YabanciDizi",
+    "name": "WioShort",
+    "internalName": "WioShort",
     "source": "TurkSinema",
-    "version": 7,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (YabanciDizi v9)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "YabanciDizi",
-    "internalName": "YabanciDizi",
-    "source": "BTVault",
-    "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (YabanciDizi v9)"
-  },
-  {
-    "name": "TRanimaci",
-    "internalName": "TRanimaci",
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
     "source": "TurkSinema",
-    "version": 10,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "AsyaWatch",
-    "internalName": "AsyaWatch",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (AsyaWatch v3)"
+    "name": "Youku",
+    "internalName": "Youku",
+    "source": "TurkSinema",
+    "reason": "Yabancı dil filtresi (zh)"
+  },
+  {
+    "name": "Deokwave",
+    "internalName": "Deokwave",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "Arcana Drama",
+    "internalName": "ArcanaDrama",
+    "source": "TurkSinema",
+    "reason": "Kısa drama / spam filtresi"
+  },
+  {
+    "name": "Net TV",
+    "internalName": "NetTV",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
     "name": "WioDB",
     "internalName": "WioDB",
     "source": "TurkSinema",
-    "version": 8,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
   },
   {
-    "name": "SeyirTURK",
-    "internalName": "SeyirTURK",
+    "name": "Sports Replay",
+    "internalName": "SportsReplay",
+    "source": "TurkSinema",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "Catcast TV",
+    "internalName": "Catcast",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "WioIPTVPanels",
+    "internalName": "WioIPTVPanels",
+    "source": "TurkSinema",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "powerSinema",
+    "internalName": "powerSinema",
+    "source": "BTVault",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "source": "BTVault",
+    "reason": "Yabancı dil filtresi (en)"
+  },
+  {
+    "name": "AtomSpor",
+    "internalName": "AtomSpor",
     "source": "TurkSpor",
-    "version": 13,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SeyirTURK v13)"
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
   },
   {
-    "name": "AnimeciX",
-    "internalName": "AnimeciX",
-    "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (AnimeciX v21)"
+    "name": "BasketballReplays",
+    "internalName": "BasketballReplays",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
   },
   {
-    "name": "CanliTV",
-    "internalName": "CanliTV",
-    "source": "BTVault",
-    "version": 5,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (CanliTV v10)"
+    "name": "BasketballVideo",
+    "internalName": "BasketballVideo",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
   },
   {
-    "name": "Dizipod",
-    "internalName": "Dizipod",
+    "name": "BetmatikTV",
+    "internalName": "BetmatikTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "BeyazElma",
+    "internalName": "BeyazElma",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "CiftD2M",
+    "internalName": "CiftD2M",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "Crex",
+    "internalName": "Crex",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "DaddyLive",
+    "internalName": "DaddyLive",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "DomatesTV",
+    "internalName": "DomatesTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "InterSporTV",
+    "internalName": "InterSporTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "JestYayin",
+    "internalName": "JestYayin",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "KacakSpor",
+    "internalName": "KacakSpor",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "KoalaTV",
+    "internalName": "KoalaTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "KralSporHD",
+    "internalName": "KralSporHD",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "LeoTV",
+    "internalName": "LeoTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "MacKeyfi",
+    "internalName": "MacKeyfi",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "MahsunSports",
+    "internalName": "MahsunSports",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "NebulaSports",
+    "internalName": "NebulaSports",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "NetVGold",
+    "internalName": "NetVGold",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "Ntvs",
+    "internalName": "Ntvs",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "PapazSports",
+    "internalName": "PapazSports",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "PatronHD",
+    "internalName": "PatronHD",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "StbTV",
+    "internalName": "StbTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "StreamEast",
+    "internalName": "StreamEast",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "Streamed",
+    "internalName": "Streamed",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "TimStreams",
+    "internalName": "TimStreams",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "VegolTV",
+    "internalName": "VegolTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "VionTV",
+    "internalName": "VionTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "VivoXSpor",
+    "internalName": "VivoXSpor",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "Warflix",
+    "internalName": "Warflix",
+    "source": "TurkSpor",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "WioMulti",
+    "internalName": "WioMulti",
+    "source": "TurkSpor",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "ZbahisTV",
+    "internalName": "ZbahisTV",
+    "source": "TurkSpor",
+    "reason": "Önemsiz bahis/yabancı spor filtresi"
+  },
+  {
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "source": "Feroxx Kekik",
+    "reason": "Yabancı dil filtresi (en)"
+  },
+  {
+    "name": "Watch2Movies",
+    "internalName": "Watch2Movies",
+    "source": "Feroxx Kekik",
+    "reason": "Düşük kaliteli / eski sağlayıcı filtresi"
+  },
+  {
+    "name": "AileTV",
+    "internalName": "AileTV",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AileTV v5' seçildi."
+  },
+  {
+    "name": "AltiYuzAltmisAltiFilmIzle",
+    "internalName": "AltiYuzAltmisAltiFilmIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AltiYuzAltmisAltiFilmIzle v8' seçildi."
+  },
+  {
+    "name": "AniArsiv",
+    "internalName": "AniArsiv",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AniArsiv v1' seçildi."
+  },
+  {
+    "name": "AnizmProvider",
+    "internalName": "AnizmProvider",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AnizmProvider v24' seçildi."
+  },
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'BelgeselX v17' seçildi."
+  },
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'BelgeselX v17' seçildi."
+  },
+  {
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
     "source": "BTVault",
-    "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziPod v3)"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'BelgeselX v17' seçildi."
+  },
+  {
+    "name": "BingeBang",
+    "internalName": "BingeBang",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'BingeBang v2' seçildi."
+  },
+  {
+    "name": "CizgiMax",
+    "internalName": "CizgiMax",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CizgiMax v17' seçildi."
+  },
+  {
+    "name": "CizgiMax",
+    "internalName": "CizgiMax",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CizgiMax v17' seçildi."
+  },
+  {
+    "name": "CNCVerseDisneyPlus",
+    "internalName": "CNCVerseDisneyPlus",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CNCVerseDisneyPlus v8' seçildi."
+  },
+  {
+    "name": "CNCVerseNetflix",
+    "internalName": "CNCVerseNetflix",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CNCVerseNetflix v8' seçildi."
+  },
+  {
+    "name": "CNCVersePrimeVideo",
+    "internalName": "CNCVersePrimeVideo",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CNCVersePrimeVideo v8' seçildi."
+  },
+  {
+    "name": "Ddizi",
+    "internalName": "Ddizi",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Ddizi v24' seçildi."
+  },
+  {
+    "name": "DDizi",
+    "internalName": "DDizi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Ddizi v24' seçildi."
+  },
+  {
+    "name": "DDizi",
+    "internalName": "DDizi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Ddizi v24' seçildi."
+  },
+  {
+    "name": "DDizi",
+    "internalName": "DDizi",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Ddizi v24' seçildi."
+  },
+  {
+    "name": "DDiziAlternatif",
+    "internalName": "DDiziAlternatif",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DDiziAlternatif v8' seçildi."
+  },
+  {
+    "name": "DiziBal",
+    "internalName": "DiziBal",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBal v8' seçildi."
+  },
+  {
+    "name": "DiziBol",
+    "internalName": "DiziBol",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBol v8' seçildi."
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBox v26' seçildi."
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBox v26' seçildi."
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBox v26' seçildi."
+  },
+  {
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziBox v26' seçildi."
+  },
+  {
+    "name": "DiziFilmIzle",
+    "internalName": "DiziFilmIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziFilmIzle v8' seçildi."
+  },
+  {
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizilla v95' seçildi."
+  },
+  {
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizilla v95' seçildi."
+  },
+  {
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMom v64' seçildi."
+  },
+  {
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMom v64' seçildi."
+  },
+  {
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMom v64' seçildi."
+  },
+  {
+    "name": "DiziRella",
+    "internalName": "DiziRella",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziRella v11' seçildi."
+  },
+  {
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziYou v26' seçildi."
+  },
+  {
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziYou v26' seçildi."
+  },
+  {
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziYou v26' seçildi."
+  },
+  {
+    "name": "Dmax",
+    "internalName": "Dmax",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dmax v1' seçildi."
+  },
+  {
+    "name": "DMax",
+    "internalName": "DMax",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dmax v1' seçildi."
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmMakinesi v59' seçildi."
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmMakinesi v59' seçildi."
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmMakinesi v59' seçildi."
+  },
+  {
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmMakinesi v59' seçildi."
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmModu v19' seçildi."
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmModu v19' seçildi."
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmModu v19' seçildi."
+  },
+  {
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FilmModu v19' seçildi."
+  },
+  {
+    "name": "FlixNetwork",
+    "internalName": "FlixNetwork",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'FlixNetwork v7' seçildi."
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "FullHDFilm",
+    "internalName": "FullHDFilm",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmIzleInk",
+    "internalName": "HDFilmIzleInk",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmIzleVip",
+    "internalName": "HDFilmIzleVip",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "FullHDFilm",
+    "internalName": "FullHDFilm",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmIzle",
+    "internalName": "HDFilmIzle",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmCehennemi2",
+    "internalName": "HDFilmCehennemi2",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
   },
   {
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
     "source": "BTVault",
-    "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmIzle v8)"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HintFilmIzle",
+    "internalName": "HintFilmIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HintFilmIzle v2' seçildi."
+  },
+  {
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'InatBox v30' seçildi."
+  },
+  {
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'InatBox v30' seçildi."
+  },
+  {
+    "name": "IzleOyna",
+    "internalName": "IzleOyna",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'IzleOyna v3' seçildi."
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'JetFilmizle v48' seçildi."
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'JetFilmizle v48' seçildi."
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'JetFilmizle v48' seçildi."
+  },
+  {
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'JetFilmizle v48' seçildi."
+  },
+  {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'KultFilmler v16' seçildi."
+  },
+  {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'KultFilmler v16' seçildi."
+  },
+  {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'KultFilmler v16' seçildi."
+  },
+  {
+    "name": "MinikaCocuk",
+    "internalName": "MinikaCocuk",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'MinikaCocuk v3' seçildi."
+  },
+  {
+    "name": "MinikaGO",
+    "internalName": "MinikaGO",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'MinikaGO v3' seçildi."
+  },
+  {
+    "name": "NewTVLive",
+    "internalName": "NewTVLive",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'NewTVLive v4' seçildi."
+  },
+  {
+    "name": "NewTVLive",
+    "internalName": "NewTVLive",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'NewTVLive v4' seçildi."
+  },
+  {
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'RareFilmm v7' seçildi."
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'RecTV v118' seçildi."
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'RecTV v118' seçildi."
+  },
+  {
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SelcukFlix v9' seçildi."
+  },
+  {
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SelcukFlix v9' seçildi."
+  },
+  {
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SetFilmIzle v32' seçildi."
+  },
+  {
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SetFilmIzle v32' seçildi."
+  },
+  {
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SezonlukDizi v10' seçildi."
+  },
+  {
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SezonlukDizi v10' seçildi."
+  },
+  {
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SezonlukDizi v10' seçildi."
+  },
+  {
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SinemaCX v26' seçildi."
+  },
+  {
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SinemaCX v26' seçildi."
+  },
+  {
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SinemaCX v26' seçildi."
+  },
+  {
+    "name": "SinemaGG",
+    "internalName": "SinemaGG",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SinemaGG v2' seçildi."
+  },
+  {
+    "name": "Sinemakolik",
+    "internalName": "Sinemakolik",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Sinemakolik v1' seçildi."
+  },
+  {
+    "name": "SinemaTV",
+    "internalName": "SinemaTV",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SinemaTV v9' seçildi."
+  },
+  {
+    "name": "TLCtr",
+    "internalName": "TLCtr",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TLCtr v19' seçildi."
+  },
+  {
+    "name": "Tlctr",
+    "internalName": "Tlctr",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TLCtr v19' seçildi."
+  },
+  {
+    "name": "TLC",
+    "internalName": "TLC",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TLCtr v19' seçildi."
+  },
+  {
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TrAnimeIzle v3' seçildi."
+  },
+  {
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WebteIzle v21' seçildi."
+  },
+  {
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WebteIzle v21' seçildi."
+  },
+  {
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WebteIzle v21' seçildi."
+  },
+  {
+    "name": "WioSpor",
+    "internalName": "WioSpor",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WioSpor v56' seçildi."
+  },
+  {
+    "name": "WiojeltSpor",
+    "internalName": "WiojeltSpor",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WioSpor v56' seçildi."
+  },
+  {
+    "name": "WioSpor",
+    "internalName": "WioSpor",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WioSpor v56' seçildi."
+  },
+  {
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "source": "Ripplay",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YabanciDizi v9' seçildi."
+  },
+  {
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YabanciDizi v9' seçildi."
+  },
+  {
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YabanciDizi v9' seçildi."
+  },
+  {
+    "name": "TRanimaci",
+    "internalName": "TRanimaci",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TRanimaci v19' seçildi."
+  },
+  {
+    "name": "TRanimaci",
+    "internalName": "TRanimaci",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TRanimaci v19' seçildi."
+  },
+  {
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WebDramaTurkey v10' seçildi."
+  },
+  {
+    "name": "WebdramaTurkey2",
+    "internalName": "WebdramaTurkey2",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WebDramaTurkey v10' seçildi."
+  },
+  {
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AsyaWatch v3' seçildi."
+  },
+  {
+    "name": "AsyaWatch",
+    "internalName": "AsyaWatch",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AsyaWatch v3' seçildi."
+  },
+  {
+    "name": "DiziWatch",
+    "internalName": "DiziWatch",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziWatch v12' seçildi."
+  },
+  {
+    "name": "Konflix",
+    "internalName": "Konflix",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Konflix v1' seçildi."
+  },
+  {
+    "name": "SeyirTURK",
+    "internalName": "SeyirTURK",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SeyirTURK v13' seçildi."
+  },
+  {
+    "name": "SeyirTURK",
+    "internalName": "SeyirTURK",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SeyirTURK v13' seçildi."
+  },
+  {
+    "name": "One Pace TR",
+    "internalName": "OnePaceTR",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'One Pace TR v1' seçildi."
+  },
+  {
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AnimeciX v21' seçildi."
+  },
+  {
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AnimeciX v21' seçildi."
+  },
+  {
+    "name": "CanliTV",
+    "internalName": "CanliTV",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CanliTV v10' seçildi."
+  },
+  {
+    "name": "CanliTV",
+    "internalName": "CanliTV",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'CanliTV v10' seçildi."
+  },
+  {
+    "name": "DiziGom",
+    "internalName": "DiziGom",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziGom v1' seçildi."
+  },
+  {
+    "name": "DiziMag",
+    "internalName": "DiziMag",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMag v2' seçildi."
+  },
+  {
+    "name": "DiziPod",
+    "internalName": "DiziPod",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziPod v3' seçildi."
+  },
+  {
+    "name": "Dizipod",
+    "internalName": "Dizipod",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziPod v3' seçildi."
+  },
+  {
+    "name": "IzleAI",
+    "internalName": "IzleAI",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'IzleAI v6' seçildi."
+  },
+  {
+    "name": "powerDizi",
+    "internalName": "powerDizi",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'powerDizi v1' seçildi."
+  },
+  {
+    "name": "SporTV",
+    "internalName": "SporTV",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SporTV v1' seçildi."
+  },
+  {
+    "name": "vavooSpor",
+    "internalName": "vavooSpor",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'vavooSpor v2' seçildi."
+  },
+  {
+    "name": "XPrime",
+    "internalName": "XPrime",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'XPrime v1' seçildi."
   },
   {
     "name": "YouTube",
     "internalName": "YouTube",
     "source": "BTVault",
-    "version": 5,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YouTube v5' seçildi."
+  },
+  {
+    "name": "ArdaSpor",
+    "internalName": "ArdaSpor",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'ArdaSpor v12' seçildi."
+  },
+  {
+    "name": "AslanTV",
+    "internalName": "AslanTV",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AslanTV v13' seçildi."
+  },
+  {
+    "name": "BirdirbirIPTV",
+    "internalName": "BirdirbirIPTV",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'BirdirbirIPTV v28' seçildi."
   },
   {
     "name": "Dexter",
     "internalName": "Dexter",
     "source": "TurkSpor",
-    "version": 1,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dexter v1' seçildi."
+  },
+  {
+    "name": "SelcukSports",
+    "internalName": "SelcukSports",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SelcukSports v12' seçildi."
+  },
+  {
+    "name": "Taraftarium24",
+    "internalName": "Taraftarium24",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Taraftarium24 v14' seçildi."
+  },
+  {
+    "name": "TRGoals",
+    "internalName": "TRGoals",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TRGoals v3' seçildi."
+  },
+  {
+    "name": "TurkSpor",
+    "internalName": "TurkSpor",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TurkSpor v6' seçildi."
   },
   {
     "name": "WioSync",
     "internalName": "WioSync",
     "source": "TurkSpor",
-    "version": 2,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'WioSync v2' seçildi."
+  },
+  {
+    "name": "TRLive",
+    "internalName": "TRLive",
+    "source": "TurkSpor",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TRLive v1' seçildi."
   },
   {
     "name": "OwnedSites",
     "internalName": "OwnedSites",
     "source": "Ripplay",
-    "version": 2,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'OwnedSites v2' seçildi."
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'AsyaAnimeleri v1' seçildi."
+  },
+  {
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziKorea v41' seçildi."
+  },
+  {
+    "name": "Sinewix",
+    "internalName": "Sinewix",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Sinewix v4' seçildi."
+  },
+  {
+    "name": "TRasyalog",
+    "internalName": "TRasyalog",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TRasyalog v66' seçildi."
+  },
+  {
+    "name": "TurkAnime",
+    "internalName": "TurkAnime",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TurkAnime v14' seçildi."
   }
 ]
