@@ -835,6 +835,7 @@ def main() -> None:
         "description": sources_cfg.get("description", "Otonom CloudStream Deposu"),
         "manifestVersion": 1,
         "pluginLists": [
+            f"https://raw.githubusercontent.com/{repo_full}/{branch}/builds/plugins.json",
             f"https://cdn.jsdelivr.net/gh/{repo_full}@{branch}/builds/plugins.json"
         ]
     }
