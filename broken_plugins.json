@@ -644,25 +644,32 @@
     "reason": "Global repo yabancı dil / filtrelendi (hi)"
   },
   {
+    "name": "AltiYuzAltmisAltiFilmIzle",
+    "internalName": "AltiYuzAltmisAltiFilmIzle",
+    "source": "TurkSinema",
+    "version": 8,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+  },
+  {
     "name": "BelgeselX",
     "internalName": "BelgeselX",
-    "source": "TurkSinema",
-    "version": 9,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (BelgeselX v17)"
+    "source": "Feroxx Kekik",
+    "version": 17,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "source": "BTVault",
     "version": 4,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (BelgeselX v17)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "CizgiMax",
     "internalName": "CizgiMax",
-    "source": "TurkSinema",
-    "version": 10,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (CizgiMax v17)"
+    "source": "Feroxx Kekik",
+    "version": 17,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "DDizi",
@@ -690,7 +697,7 @@
     "internalName": "DDizi",
     "source": "Ripplay",
     "version": 2,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
   },
   {
     "name": "DiziBox",
@@ -716,9 +723,9 @@
   {
     "name": "Dizilla",
     "internalName": "Dizilla",
-    "source": "TurkSinema",
-    "version": 17,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Dizilla v95)"
+    "source": "Feroxx Kekik",
+    "version": 95,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "DiziMom",
@@ -760,7 +767,7 @@
     "internalName": "FilmMakinesi",
     "source": "Ripplay",
     "version": 26,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (FilmMakinesi v59)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "FilmMakinesi",
@@ -821,30 +828,30 @@
   {
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
-    "source": "Ripplay",
-    "version": 37,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v58)"
+    "source": "Feroxx Kekik",
+    "version": 58,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "source": "TurkSinema",
     "version": 8,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v58)"
+    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
   },
   {
     "name": "HDFilmCehennemi2",
     "internalName": "HDFilmCehennemi2",
     "source": "BTVault",
     "version": 3,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v58)"
+    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
   },
   {
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "source": "BTVault",
     "version": 1,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v58)"
+    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmCehennemi v37)"
   },
   {
     "name": "HDFilmDelisi",
@@ -952,13 +959,6 @@
     "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
-    "name": "SevenReels",
-    "internalName": "SevenReels",
-    "source": "TurkSinema",
-    "version": 4,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "source": "Feroxx Kekik",
@@ -977,7 +977,7 @@
     "internalName": "SinemaCX",
     "source": "Ripplay",
     "version": 15,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (SinemaCX v26)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "SinemaCX",
@@ -1040,7 +1040,7 @@
     "internalName": "TRanimaci",
     "source": "TurkSinema",
     "version": 10,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (TRanimaci v19)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "AsyaWatch",
@@ -1054,7 +1054,7 @@
     "internalName": "WioDB",
     "source": "TurkSinema",
     "version": 8,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
     "name": "SeyirTURK",
@@ -1087,16 +1087,9 @@
   {
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
-    "source": "Ripplay",
-    "version": 8,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
-  },
-  {
-    "name": "HDFilmIzle",
-    "internalName": "HDFilmIzle",
     "source": "BTVault",
     "version": 3,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
+    "reason": "Daha güncel/çalışan versiyonu seçildi (HDFilmIzle v8)"
   },
   {
     "name": "YouTube",
@@ -1108,13 +1101,6 @@
   {
     "name": "Dexter",
     "internalName": "Dexter",
-    "source": "TurkSpor",
-    "version": 1,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
-  },
-  {
-    "name": "Warflix",
-    "internalName": "Warflix",
     "source": "TurkSpor",
     "version": 1,
     "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"

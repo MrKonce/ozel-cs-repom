@@ -133,29 +133,6 @@
     "fileHash": "sha256-07e8d78e339f9cd7df8ec922ac17f84f5cef62225ef068a6fee2372e6acaa1b0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AltiYuzAltmisAltiFilmIzle_v8.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "AltiYuzAltmisAltiFilmIzle",
-    "internalName": "AltiYuzAltmisAltiFilmIzle",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 106334,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-41d76f7a03d2b838ae8fff0aa52d9bfb2979ed3af7f080aa538c581d4e5349c5"
-  },
-  {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AniArsiv_v1.cs3",
     "status": 1,
     "version": 1,
@@ -221,25 +198,27 @@
     "fileHash": "sha256-17d0777e5ef8573315bbe27510241fe6db7d6c8e7de1ebe556b428847b5e9241"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_BelgeselX_v17.cs3",
-    "status": 1,
-    "version": 17,
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_BelgeselX_v9.cs3",
+    "status": 3,
+    "version": 9,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
     "authors": [
-      "keyiflerolsun",
-      "JustRelaxable"
+      "Wiojelt"
     ],
-    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "fileSize": 31167,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 139197,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-11afcc524f9a2616d4d3e2b170f255d8f78a6ad50ce3ed0c585dcaf74b8d49db"
+    "fileHash": "sha256-a8339e63be80eb81ad217e4150d48c7478066044996808835347da609a722969"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_BingeBang_v2.cs3",
@@ -373,26 +352,27 @@
     "fileHash": "sha256-f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_CizgiMax_v17.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiMax_v10.cs3",
     "status": 1,
-    "version": 17,
+    "version": 10,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
     "authors": [
-      "keyiflerolsun"
+      "Wiojelt"
     ],
-    "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 55748,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "Cizgi Max · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 142291,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
-      "Cartoon",
+      "Movie",
+      "TvSeries",
       "Anime",
-      "Movie"
+      "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0620c4d3b2ec4a279e988fe26e93bfaae98e5d378aab21b77bebc565b6848b7e"
+    "fileHash": "sha256-2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiPortal_v4.cs3",
@@ -662,24 +642,27 @@
     "fileHash": "sha256-92d6e9901f0411e97ad14e4a4f84ec497ef26335c05478f364d32ba6f4872646"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_Dizilla_v95.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Dizilla_v17.cs3",
     "status": 1,
-    "version": 95,
+    "version": 17,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
-      "keyiflerolsun"
+      "Wiojelt"
     ],
-    "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 28180,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 273791,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
-      "TvSeries"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
     ],
-    "iconUrl": "https://dizilla.now/favicon.ico",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ca987349e9940ebaf59a20230aaa2e9266f20855d4cfa73bebf4029d16acb326"
+    "fileHash": "sha256-0d296bada3a817a51e673c213554bde1385c8112a8ab8543fd2fde693d46ba9a"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziMom_v64.cs3",
@@ -1078,26 +1061,27 @@
     "fileHash": "sha256-2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_HDFilmCehennemi_v58.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ripplay_HDFilmCehennemi_v37.cs3",
     "status": 1,
-    "version": 58,
+    "version": 37,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
       "hexated",
-      "keyiflerolsun"
+      "keyiflerolsun",
+      "nikyokki"
     ],
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "fileSize": 48578,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 31895,
+    "repositoryUrl": "https://github.com/Ripplay/cloudstream-repo",
     "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.nl&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-453fe0ac8d5de15889dd067334a523946a36b0c3886c06030c6e65e6c4467dac"
+    "fileHash": "sha256-3fd2aaa1b08f1b62ada8e0f1efa49a32de0b19dff0ab55fe47b72f234e38e440"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HDFilmDelisi_v7.cs3",
@@ -1777,6 +1761,27 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-d496ce77c2df948ea754a16a404bcb58a48c29b02bed77b4cadf62df53ca520c"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SevenReels_v4.cs3",
+    "status": 1,
+    "version": 4,
+    "name": "SevenReels",
+    "internalName": "SevenReels",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "7Reels • 4K Direct Master Stream Router (VidFast, VidCore, VixSrc)",
+    "fileSize": 133311,
+    "repositoryUrl": "https://github.com/Wiojelt/WioCinema",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/WioCinema@main/assets/7reels.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-a2f13955e459392ea570d5489a12c0bb4ee1c2347f56b61ff7aeba8a5e18cfeb"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SezonlukDizi_v10.cs3",
@@ -2641,6 +2646,27 @@
     "fileHash": "sha256-c4be7b192eec30ffc084f8df86e30f0ccc59270e58fe7dc99b989677963224f5"
   },
   {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ripplay_HDFilmIzle_v8.cs3",
+    "status": 1,
+    "version": 8,
+    "name": "HDFilmIzle",
+    "internalName": "HDFilmIzle",
+    "authors": [
+      "nikyokki"
+    ],
+    "description": "HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
+    "fileSize": 40634,
+    "repositoryUrl": "https://github.com/Ripplay/cloudstream-repo",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-4e85ba57f537765f3ccda701c108151c04126d42c9dde0efaeec753695dcd89d"
+  },
+  {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_IzleAI_v6.cs3",
     "status": 1,
     "version": 6,
@@ -3457,6 +3483,26 @@
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSpor@main/assets/providers/VivoXSpor.png",
     "apiVersion": 1,
     "fileHash": "sha256-f8dd765ea7df9ef1ad28cb2185a877e047c23f9b6903ce45df30683d20914a48"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_Warflix_v1.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Warflix",
+    "internalName": "Warflix",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Warflix Film & Dizi (TMDb / Çoklu Embed Sunucu Akışı).",
+    "fileSize": 170769,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "apiVersion": 1,
+    "fileHash": "sha256-953bc2a296686ab171a347be69251270ce4a0368fc439130ac5d4d08c89a1e74"
   },
   {
     "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_WiojeltSpor_v10.cs3",

@@ -19,10 +19,10 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `15.11.2026 - 23:36:30 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `15.11.2026 - 23:40:09 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2149.com`
-- 📦 **Aktif ve Çalışan Eklenti:** `176` adet
-- 🗑️ **Elenen / Raporlanan Eklenti:** `162` adet ([broken_plugins.json](broken_plugins.json))
+- 📦 **Aktif ve Çalışan Eklenti:** `178` adet
+- 🗑️ **Elenen / Raporlanan Eklenti:** `160` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Doğrulaması:** `Aktif (Transfer Hash Eşleşme Garantili)`
 - ⚡ **CDN Hızlandırma:** `jsDelivr Global Edge Network`
 
@@ -43,7 +43,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 
 ## 📦 Aktif Eklentiler Listesi
 
-<details open><summary><b>Toplam 176 Çalışan Eklentiyi Göster</b></summary>
+<details open><summary><b>Toplam 178 Çalışan Eklentiyi Göster</b></summary>
 
 | Eklenti Adı | Sürüm | Dil | Kaynak | Dosya Boyutu |
 |:---|:---:|:---:|:---|:---:|
@@ -53,18 +53,17 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **DiziPal (Orijinal) [Feroxx Kekik]** | `v115` | `tr` | Feroxx Kekik | 31.5 KB |
 | **DiziPal [Feroxx Kekik]** | `v122` | `tr` | Feroxx Kekik | 37.4 KB |
 | **AileTV** | `v5` | `tr` | TurkSinema | 116.8 KB |
-| **AltiYuzAltmisAltiFilmIzle** | `v8` | `tr` | TurkSinema | 103.8 KB |
 | **AniArsiv** | `v1` | `tr` | TurkSinema | 107.9 KB |
 | **AnizmProvider** | `v24` | `tr` | TurkSinema | 111.2 KB |
 | **AsidbDrama** | `v3` | `tr` | TurkSinema | 104.5 KB |
-| **BelgeselX** | `v17` | `tr` | Feroxx Kekik | 30.4 KB |
+| **BelgeselX** | `v9` | `tr` | TurkSinema | 135.9 KB |
 | **BingeBang** | `v2` | `all` | TurkSinema | 122.6 KB |
 | **CineCat** | `v2` | `all` | TurkSinema | 805.3 KB |
 | **CineSimkl** | `v7` | `tr` | TurkSinema | 804.7 KB |
 | **CizgiDiziNet** | `v4` | `tr` | TurkSinema | 111.2 KB |
 | **CizgiFilmIzleInfo** | `v3` | `tr` | TurkSinema | 105.7 KB |
 | **CizgiFilmTv** | `v3` | `tr` | TurkSinema | 105.3 KB |
-| **CizgiMax** | `v17` | `tr` | Feroxx Kekik | 54.4 KB |
+| **CizgiMax** | `v10` | `tr` | TurkSinema | 139.0 KB |
 | **CizgiPortal** | `v4` | `tr` | TurkSinema | 104.6 KB |
 | **CizgiSite** | `v3` | `tr` | TurkSinema | 104.1 KB |
 | **CizgiVeDizi** | `v23` | `tr` | TurkSinema | 130.4 KB |
@@ -77,7 +76,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **DiziBol** | `v8` | `tr` | TurkSinema | 135.9 KB |
 | **DiziBox** | `v26` | `tr` | Feroxx Kekik | 30.7 KB |
 | **DiziFilmIzle** | `v8` | `tr` | TurkSinema | 136.0 KB |
-| **Dizilla** | `v95` | `tr` | Feroxx Kekik | 27.5 KB |
+| **Dizilla** | `v17` | `tr` | TurkSinema | 267.4 KB |
 | **DiziMom** | `v64` | `tr` | Feroxx Kekik | 34.0 KB |
 | **DiziRella** | `v11` | `tr` | TurkSinema | 135.9 KB |
 | **DiziYou** | `v26` | `tr` | Feroxx Kekik | 15.6 KB |
@@ -97,7 +96,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **FullHDFilm** | `v36` | `tr` | Feroxx Kekik | 27.5 KB |
 | **FullHDFilmizlesene** | `v33` | `tr` | Feroxx Kekik | 39.2 KB |
 | **GreatDrama** | `v3` | `tr` | TurkSinema | 102.5 KB |
-| **HDFilmCehennemi** | `v58` | `tr` | Feroxx Kekik | 47.4 KB |
+| **HDFilmCehennemi** | `v37` | `tr` | Ripplay | 31.1 KB |
 | **HDFilmDelisi** | `v7` | `tr` | TurkSinema | 152.0 KB |
 | **HDFilmizleBest** | `v1` | `tr` | TurkSinema | 112.2 KB |
 | **HDFilmIzleInk** | `v11` | `tr` | TurkSinema | 128.3 KB |
@@ -130,6 +129,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **RecTV** | `v118` | `tr` | Feroxx Kekik | 30.4 KB |
 | **SelcukSports** | `v12` | `tr` | TurkSpor | 170.3 KB |
 | **SetFilmIzle** | `v11` | `tr` | TurkSinema | 120.4 KB |
+| **SevenReels** | `v4` | `en` | TurkSinema | 130.2 KB |
 | **SezonlukDizi** | `v10` | `tr` | TurkSinema | 121.6 KB |
 | **Shortizle** | `v2` | `tr` | TurkSinema | 113.9 KB |
 | **ShortMax** | `v2` | `tr` | TurkSinema | 109.3 KB |
@@ -171,6 +171,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **DiziGom** | `v1` | `tr` | BTVault | 19.7 KB |
 | **DiziMag** | `v2` | `tr` | BTVault | 29.7 KB |
 | **DiziPod** | `v3` | `tr` | Feroxx Kekik | 23.0 KB |
+| **HDFilmIzle** | `v8` | `tr` | Ripplay | 39.7 KB |
 | **IzleAI** | `v6` | `tr` | BTVault | 28.8 KB |
 | **powerDizi** | `v1` | `tr` | BTVault | 20.0 KB |
 | **SporTV** | `v1` | `tr` | BTVault | 13.4 KB |
@@ -212,6 +213,7 @@ https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/repo.json
 | **VegolTV** | `v1` | `tr` | TurkSpor | 156.1 KB |
 | **VionTV** | `v3` | `tr` | TurkSpor | 153.8 KB |
 | **VivoXSpor** | `v4` | `tr` | TurkSpor | 157.3 KB |
+| **Warflix** | `v1` | `en` | TurkSpor | 166.8 KB |
 | **WiojeltSpor** | `v10` | `tr` | TurkSpor | 741.4 KB |
 | **WioMulti** | `v1` | `tr` | TurkSpor | 161.2 KB |
 | **ZbahisTV** | `v10` | `tr` | TurkSpor | 213.9 KB |
