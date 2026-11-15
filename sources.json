@@ -1,0 +1,60 @@
+{
+  "name": "CloudStream Süper Repo",
+  "description": "En güncel Türkçe ve global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
+  "branch": "main",
+  "default_github_user": "MrKonce",
+  "default_github_repo": "ozel-cs-repom",
+  "domain_source_url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/domains.json",
+  "blacklist": [],
+  "sources": [
+    {
+      "name": "TurkSinema",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/repo.json",
+      "priority": 1,
+      "enabled": true,
+      "language": "tr"
+    },
+    {
+      "name": "BTVault",
+      "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/main/repo.json",
+      "priority": 2,
+      "enabled": true,
+      "language": "tr"
+    },
+    {
+      "name": "TurkSpor",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/repo.json",
+      "priority": 3,
+      "enabled": true,
+      "language": "tr"
+    },
+    {
+      "name": "Ripplay",
+      "url": "https://raw.githubusercontent.com/Ripplay/cloudstream-repo/main/repo.json",
+      "priority": 4,
+      "enabled": true,
+      "language": "tr"
+    },
+    {
+      "name": "Feroxx Kekik",
+      "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/refs/heads/builds/repo.json",
+      "priority": 5,
+      "enabled": true,
+      "language": "tr"
+    },
+    {
+      "name": "Phisher Global",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
+      "priority": 6,
+      "enabled": true,
+      "language": "multi"
+    },
+    {
+      "name": "Megix CSX Global",
+      "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json",
+      "priority": 7,
+      "enabled": true,
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+name: Sync & Heal Super Repo
+
+on:
+  schedule:
+    # Her 6 saatte bir otomatik çalışır
+    - cron: '0 */6 * * *'
+  # GitHub arayüzünden manuel tetikleme
+  workflow_dispatch:
+  # Kaynak kod veya ayar değiştiğinde çalışır (otomatik commit döngüsüne girmemesi için çıktılar filtrelenmiştir)
+  push:
+    branches:
+      - main
+      - master
+    paths-ignore:
+      - 'builds/**'
+      - 'repo.json'
+      - 'domains.json'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-heal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python 3.12 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Gerekli Paketleri Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Senkronizasyon, Anti-Break ve Domain Onarımını Çalıştır
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python sync_and_heal.py
+
+      - name: Değişiklikleri Kaydet ve Push Et (Commit & Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add builds/ repo.json domains.json README.md
+          if git diff --staged --quiet; then
+            echo "Değişiklik tespit edilmedi, commit atlanıyor."
+          else
+            git commit -m "chore(sync): automated repository sync & domain heal [skip ci]"
+            git push
+          fi
+
+      - name: jsDelivr CDN Önbelleğini Temizle (Purge Cache)
+        if: success()
+        run: |
+          echo "jsDelivr önbelleği temizleniyor..."
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/repo.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/builds/plugins.json" || true
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/domains.json" || true
+          echo "jsDelivr önbellek temizleme talebi gönderildi."
