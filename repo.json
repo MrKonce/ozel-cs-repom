@@ -1,6 +1,6 @@
 {
   "name": "CloudStream Süper Repo",
-  "description": "En güncel Türkçe ve global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
+  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
   "manifestVersion": 1,
   "pluginLists": [
     "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/plugins.json"

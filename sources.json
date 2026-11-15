@@ -1,11 +1,31 @@
 {
   "name": "CloudStream Süper Repo",
-  "description": "En güncel Türkçe ve global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
+  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
   "branch": "main",
   "default_github_user": "MrKonce",
   "default_github_repo": "ozel-cs-repom",
   "domain_source_url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/domains.json",
-  "blacklist": [],
+  "global_whitelist": [
+    "netflix",
+    "netflixmirror",
+    "primevideo",
+    "prime",
+    "disney",
+    "twitch",
+    "superstream",
+    "youtube"
+  ],
+  "blacklist": [
+    "DiziPal",
+    "DiziPalHub",
+    "DiziPal_Ripplay",
+    "DiziPalOriginal_TurkSinema",
+    "KralMuzik",
+    "FilmModu_TurkSinema",
+    "YabanciDizi_TurkSinema",
+    "FilmMakinesi_TurkSinema",
+    "Wiojelt/test"
+  ],
   "sources": [
     {
       "name": "TurkSinema",
