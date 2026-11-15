@@ -1,6 +1,6 @@
 {
   "name": "CloudStream Süper Repo",
-  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, Anti-Break ve CDN korumalı otonom süper repo.",
+  "description": "En güncel Türkçe ve popüler global CloudStream eklentilerini (cs3) birleştiren, DiziPal VIP korumalı, Anti-Break ve CDN korumalı otonom süper repo.",
   "branch": "main",
   "default_github_user": "MrKonce",
   "default_github_repo": "ozel-cs-repom",
@@ -16,10 +16,6 @@
     "youtube"
   ],
   "blacklist": [
-    "DiziPal",
-    "DiziPalHub",
-    "DiziPal_Ripplay",
-    "DiziPalOriginal_TurkSinema",
     "KralMuzik",
     "FilmModu_TurkSinema",
     "YabanciDizi_TurkSinema",

@@ -1,6 +1,118 @@
 [
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AileTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziPalHub_v27.cs3",
+    "status": 3,
+    "version": 27,
+    "name": "⭐ DiziPal [EN GÜNCEL - Aktif]",
+    "internalName": "DiziPalOriginal",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🔥 Güncel Aktif Domain: https://dizipal2149.com | Otomatik Doğrulandı.",
+    "fileSize": 234530,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/WioSinema@main/assets/DiziPalHub.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c9bc8c46b45f636a52beeaa2e6b86688786be7999ae0c7a2c4e163ad239d3a7b"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziPalOriginal_v10.cs3",
+    "status": 3,
+    "version": 10,
+    "name": "DiziPal (Orijinal) [TurkSinema]",
+    "internalName": "DiziPalOriginal_TurkSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "[TurkSinema Yedek Alternatifi] DiziPal Eklentisi.",
+    "fileSize": 236781,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@main/assets/providers/DiziPal.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-bb14abc358aa1dfb6c1778aecf4f713e10effe500884a03ec9a9f04e9dec33a9"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ripplay_DiziPal_v48.cs3",
+    "status": 1,
+    "version": 48,
+    "name": "DiziPal [Ripplay]",
+    "internalName": "DiziPal_Ripplay",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "description": "[Ripplay Yedek Alternatifi] DiziPal Eklentisi.",
+    "fileSize": 20087,
+    "repositoryUrl": "https://github.com/Ripplay/cloudstream-repo",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2216.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-204c3ed192c86511c0c167f6a3e23fd6a03f9ef331e85e7cee4beda75d7532fb"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziPalOriginal_v115.cs3",
+    "status": 1,
+    "version": 115,
+    "name": "DiziPal (Orijinal) [Feroxx Kekik]",
+    "internalName": "DiziPalOriginal_FeroxxKekik",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
+    "fileSize": 32227,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-15cb2be84fba84d990d152b5fb8a4c0bc305983866792cc55442ba8059c749bf"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziPal_v122.cs3",
+    "status": 1,
+    "version": 122,
+    "name": "DiziPal [Feroxx Kekik]",
+    "internalName": "DiziPal_FeroxxKekik",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
+    "fileSize": 38327,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
+    "apiVersion": 1,
+    "fileHash": "sha256-dc9909575b6b909580b29831bda1cf96fc7027e87584d603ad5d42a86afc4613"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AileTV_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "AileTV",
@@ -21,7 +133,7 @@
     "fileHash": "sha256-07e8d78e339f9cd7df8ec922ac17f84f5cef62225ef068a6fee2372e6acaa1b0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AltiYuzAltmisAltiFilmIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AltiYuzAltmisAltiFilmIzle_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "AltiYuzAltmisAltiFilmIzle",
@@ -44,7 +156,7 @@
     "fileHash": "sha256-41d76f7a03d2b838ae8fff0aa52d9bfb2979ed3af7f080aa538c581d4e5349c5"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AniArsiv.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AniArsiv_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "AniArsiv",
@@ -66,7 +178,7 @@
     "fileHash": "sha256-a7d810e4251f671641eb91498e505b8e433b0acbd79e8599e8caaa274541e80e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AnizmProvider.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AnizmProvider_v24.cs3",
     "status": 1,
     "version": 24,
     "name": "AnizmProvider",
@@ -88,7 +200,7 @@
     "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AsidbDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AsidbDrama_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "AsidbDrama",
@@ -109,7 +221,7 @@
     "fileHash": "sha256-17d0777e5ef8573315bbe27510241fe6db7d6c8e7de1ebe556b428847b5e9241"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BelgeselX.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_BelgeselX_v17.cs3",
     "status": 1,
     "version": 17,
     "name": "BelgeselX",
@@ -119,7 +231,7 @@
       "JustRelaxable"
     ],
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "fileSize": 139197,
+    "fileSize": 31167,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -127,10 +239,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-a8339e63be80eb81ad217e4150d48c7478066044996808835347da609a722969"
+    "fileHash": "sha256-11afcc524f9a2616d4d3e2b170f255d8f78a6ad50ce3ed0c585dcaf74b8d49db"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BingeBang.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_BingeBang_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "BingeBang",
@@ -151,7 +263,7 @@
     "fileHash": "sha256-45e611c9e195fc1887c3022b6cf151c995766036b7ab266d0c34765925bec471"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CineCat.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CineCat_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "CineCat",
@@ -173,7 +285,7 @@
     "fileHash": "sha256-1ca78d9f718160eb8f028e2f7a1c9915a1b639dff6d4e2247c5216d79f8fc437"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CineSimkl.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CineSimkl_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "CineSimkl",
@@ -196,7 +308,7 @@
     "fileHash": "sha256-38ffa9ee29bd4aff4126240827b545207d8cf62ba51e666d6b93b69e7d6682e6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiDiziNet.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiDiziNet_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "CizgiDiziNet",
@@ -217,7 +329,7 @@
     "fileHash": "sha256-abdf48846437fb5c19fc5ad047488edf36c293e42e697748aae17daf7f1a57f5"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiFilmIzleInfo.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiFilmIzleInfo_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmIzleInfo",
@@ -239,7 +351,7 @@
     "fileHash": "sha256-920e4ba209a722233db05b6b4620deb779afda46964331cd61f987b36de3b11b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiFilmTv.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiFilmTv_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiFilmTv",
@@ -261,7 +373,7 @@
     "fileHash": "sha256-f79fbf79313915f019c93aa99e9cfb982e22a00953965b90ba956d4128d192af"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiMax.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_CizgiMax_v17.cs3",
     "status": 1,
     "version": 17,
     "name": "CizgiMax",
@@ -270,7 +382,7 @@
       "keyiflerolsun"
     ],
     "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 142291,
+    "fileSize": 55748,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -280,10 +392,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-2e36219d4722cdcf48155058b06e381799fe42bc21d3106cf5e551966d1d15e7"
+    "fileHash": "sha256-0620c4d3b2ec4a279e988fe26e93bfaae98e5d378aab21b77bebc565b6848b7e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiPortal.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiPortal_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "CizgiPortal",
@@ -305,7 +417,7 @@
     "fileHash": "sha256-5cc9e719367b1126f22e5d0bf3c6202fd75c400e5c15fce89c5776b010ece5cd"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiSite.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiSite_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "CizgiSite",
@@ -327,7 +439,7 @@
     "fileHash": "sha256-84e130b67daec665e58da48e18682caffcc481dbf97e48d133468715336547f1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CizgiVeDizi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CizgiVeDizi_v23.cs3",
     "status": 1,
     "version": 23,
     "name": "CizgiVeDizi",
@@ -349,7 +461,7 @@
     "fileHash": "sha256-df8beb1a459aaf6836be2c906a5cb914e0066114b9979a2a91d4e8baad11996c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ClipBox.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_ClipBox_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "ClipBox",
@@ -372,7 +484,7 @@
     "fileHash": "sha256-328f9263c0a39869aa59524654aedc3d89eab45cb6eefff1e799622e4b933b3a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CNCVerseDisneyPlus.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CNCVerseDisneyPlus_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "CNCVerseDisneyPlus",
@@ -395,7 +507,7 @@
     "fileHash": "sha256-8abeeba277b617794e67062f98cd592f8ff404eb3e0284679963482de4b8e94c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CNCVerseNetflix.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CNCVerseNetflix_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "CNCVerseNetflix",
@@ -418,7 +530,7 @@
     "fileHash": "sha256-f93051175cf74e25d08f5c3554e7304e9afce2ef4e23a4efc576a38a89662022"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CNCVersePrimeVideo.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_CNCVersePrimeVideo_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "CNCVersePrimeVideo",
@@ -441,7 +553,7 @@
     "fileHash": "sha256-109a8bf5e3805fc6e75b9c3b8c3ce93120e048cf13da25d03cb79607b1759c02"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ddizi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_Ddizi_v24.cs3",
     "status": 1,
     "version": 24,
     "name": "Ddizi",
@@ -450,7 +562,7 @@
       "keyiflerolsun"
     ],
     "description": "DDizi.im için Cloudstream eklentisi",
-    "fileSize": 26802,
+    "fileSize": 20108,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -458,10 +570,10 @@
     ],
     "iconUrl": "https://www.ddizi.im/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-b2ee2b3a1975f22e772945e4d33687eeb46c7a4c957591a67c04ed115456790a"
+    "fileHash": "sha256-ebd3f272f1de40cafa4a4374d8fcf1fbc49387c8d2c103f29d2f14a860616897"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziBal.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziBal_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "DiziBal",
@@ -484,7 +596,7 @@
     "fileHash": "sha256-067757c725c4148abe6df0b138da46f04c6326e7d1d381b7bf3eb0fb618e00e0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziBol.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziBol_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "DiziBol",
@@ -507,7 +619,7 @@
     "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziBox.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziBox_v26.cs3",
     "status": 1,
     "version": 26,
     "name": "DiziBox",
@@ -516,7 +628,7 @@
       "keyiflerolsun"
     ],
     "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "fileSize": 122482,
+    "fileSize": 31433,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -524,10 +636,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-cadb8a6abaa06517b21cd0ded9e7420466090beb42d037fd2566f79289585257"
+    "fileHash": "sha256-d303d6973d0a26160e777c14048769196de0801a229393a5c5270a75654b09cc"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziFilmIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziFilmIzle_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "DiziFilmIzle",
@@ -550,7 +662,7 @@
     "fileHash": "sha256-92d6e9901f0411e97ad14e4a4f84ec497ef26335c05478f364d32ba6f4872646"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Dizilla.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_Dizilla_v95.cs3",
     "status": 1,
     "version": 95,
     "name": "Dizilla",
@@ -559,7 +671,7 @@
       "keyiflerolsun"
     ],
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 273791,
+    "fileSize": 28180,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -567,10 +679,10 @@
     ],
     "iconUrl": "https://dizilla.now/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-0d296bada3a817a51e673c213554bde1385c8112a8ab8543fd2fde693d46ba9a"
+    "fileHash": "sha256-ca987349e9940ebaf59a20230aaa2e9266f20855d4cfa73bebf4029d16acb326"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziMom.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziMom_v64.cs3",
     "status": 1,
     "version": 64,
     "name": "DiziMom",
@@ -579,7 +691,7 @@
       "keyiflerolsun"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 133178,
+    "fileSize": 34839,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -587,32 +699,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
+    "fileHash": "sha256-95ca49def313d96c75ff8f8ff7882a669e74c91e14f1bdcfa347d4e36c42f3f9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziPalOriginal.cs3",
-    "status": 1,
-    "version": 115,
-    "name": "DiziPal (Orijinal)",
-    "internalName": "DiziPalOriginal",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 236781,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bb14abc358aa1dfb6c1778aecf4f713e10effe500884a03ec9a9f04e9dec33a9"
-  },
-  {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziRella.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziRella_v11.cs3",
     "status": 1,
     "version": 11,
     "name": "DiziRella",
@@ -635,7 +725,7 @@
     "fileHash": "sha256-986928647db780ee7165199dfaf416e265def505c6b681cdf0f31d9cc36e80ae"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziYou.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziYou_v26.cs3",
     "status": 1,
     "version": 26,
     "name": "DiziYou",
@@ -644,7 +734,7 @@
       "keyiflerolsun"
     ],
     "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "fileSize": 110761,
+    "fileSize": 15974,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -652,10 +742,10 @@
     ],
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e79a647bf78186f409982b10c1cc4d0e62e268cf287c635f53392083f070ffb0"
+    "fileHash": "sha256-5259d2d3443e93a0639c0407fc91c20f71cbad757408acaf31b4faf5ee8bab5b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Dmax.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Dmax_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "Dmax",
@@ -677,7 +767,7 @@
     "fileHash": "sha256-f03c1d5fdb4f7fac476a763e6686cd58e40dc5d6a950f65e05797a43e7b52f13"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DmaxDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DmaxDrama_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "DmaxDrama",
@@ -698,7 +788,7 @@
     "fileHash": "sha256-de539d6031902ff26f9427195f05bb00639a867c2a0d8fa122cd0e5fcba1ef22"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Donkey.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Donkey_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "Donkey",
@@ -719,7 +809,7 @@
     "fileHash": "sha256-d27256f3fd9c5ae0246d41f429bfa8f40b7423c50f428431f726aca9c5921ad1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DramaBox.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DramaBox_v16.cs3",
     "status": 1,
     "version": 16,
     "name": "DramaBox",
@@ -740,7 +830,7 @@
     "fileHash": "sha256-e57f8dbbaba603083a7177d5965249d74e1cc611e2a4f36ebfc692e76eb8739f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DramaDunyam.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DramaDunyam_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "DramaDunyam",
@@ -761,7 +851,7 @@
     "fileHash": "sha256-3eb403e20577cf9311da0add0a860c1e750dc0cc06d0b1bdaf5829a4c8126419"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DramaFlix.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DramaFlix_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "DramaFlix",
@@ -782,7 +872,7 @@
     "fileHash": "sha256-cc395bd378f51755943f3d8bad7c89ddeb7ea5324affeadda060b5cceedc3f9c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/EloDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_EloDrama_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "EloDrama",
@@ -803,7 +893,7 @@
     "fileHash": "sha256-15a8d665949da8ea9964d713767a33f8a4a3c5fd46979a68774eed13995a694b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FilmIzzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_FilmIzzle_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "FilmIzzle",
@@ -826,7 +916,7 @@
     "fileHash": "sha256-6a6feaeae43ef89a24e1c7abe0ff3108c5f4188d43a7f94e6c0356aeba474338"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FilmMakinesi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_FilmMakinesi_v59.cs3",
     "status": 1,
     "version": 59,
     "name": "FilmMakinesi",
@@ -836,7 +926,7 @@
       "usdogu"
     ],
     "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "fileSize": 23584,
+    "fileSize": 34650,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -844,10 +934,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-a0c5199a9aafc8fc3422f0781b6b9ce767c7a04b064fb5b2e15d54b2d00d2f01"
+    "fileHash": "sha256-86bcfee991daeb8a8cb179c8d16b92ce01ee470692f210970f957e99fd0dc86a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FilmModu.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_FilmModu_v19.cs3",
     "status": 1,
     "version": 19,
     "name": "FilmModu",
@@ -856,7 +946,7 @@
       "keyiflerolsun"
     ],
     "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "fileSize": 111444,
+    "fileSize": 16496,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -864,10 +954,10 @@
     ],
     "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-e8dd82237e3398b260413768f3fab981b4fb582211a945dd14b22f0b98058c8b"
+    "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FlickReels.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_FlickReels_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "FlickReels",
@@ -882,7 +972,7 @@
     "fileHash": "sha256-3fdc6f9e701141f34bf794d7d47ccc2f924e080b02ce892386103fd53a1f941e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FlixNetwork.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_FlixNetwork_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "FlixNetwork",
@@ -905,7 +995,7 @@
     "fileHash": "sha256-88546e57785f9dfa1554d898a39223f71db7aad38b9894b0af8c383cfb366ed8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FreeDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_FreeDrama_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "FreeDrama",
@@ -926,7 +1016,7 @@
     "fileHash": "sha256-5f3be1add82c2cef629a32d448776b2ab930d3249d0ca16abd1eff42c61b59e2"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FullHDFilm.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_FullHDFilm_v36.cs3",
     "status": 1,
     "version": 36,
     "name": "FullHDFilm",
@@ -947,7 +1037,7 @@
     "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FullHDFilmizlesene.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_FullHDFilmizlesene_v33.cs3",
     "status": 1,
     "version": 33,
     "name": "FullHDFilmizlesene",
@@ -956,7 +1046,7 @@
       "keyiflerolsun"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 136429,
+    "fileSize": 40117,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -964,10 +1054,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-e6bc82db13d06fcc324b42ef812c8ff53c57d23b15e348ee2ec74dee069ef2c8"
+    "fileHash": "sha256-8f2cff5f9fc87f38d415b65c30c7ad3b7c9a5d26f03d8e73b072ff520b499253"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/GreatDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_GreatDrama_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "GreatDrama",
@@ -988,7 +1078,7 @@
     "fileHash": "sha256-2d3b343011dca7fdf36c8754193db096b685fa8e62257eee633830802ee01a6d"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HDFilmCehennemi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_HDFilmCehennemi_v58.cs3",
     "status": 1,
     "version": 58,
     "name": "HDFilmCehennemi",
@@ -998,7 +1088,7 @@
       "keyiflerolsun"
     ],
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "fileSize": 122948,
+    "fileSize": 48578,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1007,10 +1097,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-953b30cda390f9d2f784529c0f10f862654f889d9aa75ca37e1b0dc8a9454b77"
+    "fileHash": "sha256-453fe0ac8d5de15889dd067334a523946a36b0c3886c06030c6e65e6c4467dac"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HDFilmDelisi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HDFilmDelisi_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "HDFilmDelisi",
@@ -1019,7 +1109,7 @@
       "Wiojelt"
     ],
     "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 64395,
+    "fileSize": 155629,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1030,10 +1120,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-20329159ede070b4f6535bb501c5d4276262247574f27ef9740cdf2ab7175a95"
+    "fileHash": "sha256-87ca54d40dd82417261f8b5f12d230165b35450acce039413858e0f20d3ff065"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HDFilmizleBest.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HDFilmizleBest_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "HDFilmizleBest",
@@ -1056,7 +1146,7 @@
     "fileHash": "sha256-a9a142a4715bd92b3440fdfa3207e9532ea0e1c2c5ed367617db23435b8cf72f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HDFilmIzleInk.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HDFilmIzleInk_v11.cs3",
     "status": 1,
     "version": 11,
     "name": "HDFilmIzleInk",
@@ -1079,7 +1169,7 @@
     "fileHash": "sha256-90520e065def4b52c12328074d1c4c7269865ad9c81bb46588385264a77f9996"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HDFilmIzleVip.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HDFilmIzleVip_v11.cs3",
     "status": 1,
     "version": 11,
     "name": "HDFilmIzleVip",
@@ -1102,7 +1192,7 @@
     "fileHash": "sha256-9f2a0e4a4ca1156025a3c73adb3c9a2dac9ddc1912026d7d38097d1b44ec0ea1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HiDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HiDrama_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "HiDrama",
@@ -1123,7 +1213,7 @@
     "fileHash": "sha256-dd7a806741bff1fd2c3f64b0a3629b8033e242763307545dc39f6fd44d4bd223"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/HintFilmIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_HintFilmIzle_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "HintFilmIzle",
@@ -1145,7 +1235,7 @@
     "fileHash": "sha256-3b0d59a0f9bd0f457ccbaf6d2bcf45687a9625135adf13f0b9a207ba4af08741"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/InatBox.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_InatBox_v30.cs3",
     "status": 1,
     "version": 30,
     "name": "InatBox",
@@ -1155,7 +1245,7 @@
       "keyiflerolsun"
     ],
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "fileSize": 148002,
+    "fileSize": 36900,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1165,10 +1255,10 @@
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2ac0eb8e9130cad7ef6527726dd8041954c78b9d0f3f093b6ab7d3901aef09d8"
+    "fileHash": "sha256-006c7b68f7deb24c5356c753429c20607896f78009a8edbf27a46bd6ff0651fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/IzleOyna.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_IzleOyna_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "IzleOyna",
@@ -1190,7 +1280,7 @@
     "fileHash": "sha256-bcd8b61b979deae506e570fa9c6678ad35613fbc72b6b75c3d7cf679c3e7786f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/JetFilmizle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_JetFilmizle_v48.cs3",
     "status": 1,
     "version": 48,
     "name": "JetFilmizle",
@@ -1199,7 +1289,7 @@
       "keyiflerolsun"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 29809,
+    "fileSize": 18693,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1207,10 +1297,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-7c09fb19f149679e5148c59d870f8b139747a6f73102479a113bf5031cf6d318"
+    "fileHash": "sha256-0609231f419e73cffbe535d80244a1081b1988013aed4bbb24a3ae14a616e629"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/KultFilmler.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_KultFilmler_v16.cs3",
     "status": 1,
     "version": 16,
     "name": "KultFilmler",
@@ -1219,7 +1309,7 @@
       "keyiflerolsun"
     ],
     "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "fileSize": 118746,
+    "fileSize": 27243,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1228,10 +1318,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-dd311e265a47220e0858f3950a580ffac594d856b41a18948426cf4d2d806e0c"
+    "fileHash": "sha256-47b263ff6bf1b4f65d17b3aee00112e687de473ce7fd2fd777b17c2ba0290104"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/LiderFilmIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_LiderFilmIzle_v10.cs3",
     "status": 1,
     "version": 10,
     "name": "LiderFilmIzle",
@@ -1254,7 +1344,7 @@
     "fileHash": "sha256-e4760e93c9c2070783a163d3902d23fc1e48e8fbeac9e0d66d229f0aec5ede1a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/LightFlix.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_LightFlix_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "LightFlix",
@@ -1275,7 +1365,7 @@
     "fileHash": "sha256-0e026f683e8f447cd07293d04817ebe928bb8c0b46a44df745ef29e5a4912beb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/LoveDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_LoveDrama_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "LoveDrama",
@@ -1296,7 +1386,7 @@
     "fileHash": "sha256-95f437e3f257679445282a083f2b1a75f85a8ec6275d28fb41ba499fa463d827"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Mapple.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Mapple_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "Mapple",
@@ -1318,7 +1408,7 @@
     "fileHash": "sha256-dc4a95677860470215be9d02c0769dd5e5b3d3fe1b3cf43e28238008de7795bc"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/McDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_McDrama_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "McDrama",
@@ -1339,7 +1429,7 @@
     "fileHash": "sha256-610288b193414704d659c979c98fc739bc579dea7ed5d0b397c2904f2a6fa18a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MicroDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MicroDrama_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "MicroDrama",
@@ -1354,7 +1444,7 @@
     "fileHash": "sha256-344d173b9703920725c42c2e31feb5205143e12f0229999050491b1ec363d6db"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MiniDiziIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MiniDiziIzle_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "MiniDiziIzle",
@@ -1375,7 +1465,7 @@
     "fileHash": "sha256-8aac6b2adcf4f331ab3b4897bddfe28ebba62d842ca39ff07ccb4d99257f9c4e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MinikaCocuk.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MinikaCocuk_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "MinikaCocuk",
@@ -1397,7 +1487,7 @@
     "fileHash": "sha256-e8e399326fdabf12a93b92e11e3aead40ab4a15f4012d25c85cfb08b39ddd6f1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MinikaGO.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MinikaGO_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "MinikaGO",
@@ -1419,7 +1509,7 @@
     "fileHash": "sha256-fa5f07b2a3992222c6182ad0210fc2b5908ddf750e859d78f4c8a75b792d4c04"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MinuteDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MinuteDrama_v15.cs3",
     "status": 3,
     "version": 15,
     "name": "MinuteDrama",
@@ -1434,7 +1524,7 @@
     "fileHash": "sha256-e9e152ca45014acb46df0bb35783c138f636a625a681a807bcf25dc61e205b98"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MoreShort.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MoreShort_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "MoreShort",
@@ -1449,7 +1539,7 @@
     "fileHash": "sha256-00dc830b1936b2bda57af1ff15b13c42aa828ff6c7345807d72a78987fdec641"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MtDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MtDrama_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "MtDrama",
@@ -1470,7 +1560,7 @@
     "fileHash": "sha256-47cb41f316b6ab2ca78b888c263ae515d75758c02c295ca96c7df2b62f07ea25"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MuseDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MuseDrama_v7.cs3",
     "status": 1,
     "version": 7,
     "name": "MuseDrama",
@@ -1491,7 +1581,7 @@
     "fileHash": "sha256-e557c4e2567d9e7463e882ed3d4e0d6242c3dcd408794d102c38c2639578c25d"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MyDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_MyDrama_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "MyDrama",
@@ -1512,7 +1602,7 @@
     "fileHash": "sha256-8156294f1a79cfb2a923f465dfe0b9583bf567be453a092a00fa001379e611ef"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/NetFilmizle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_NetFilmizle_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "NetFilmizle",
@@ -1535,7 +1625,7 @@
     "fileHash": "sha256-46b40f7b3badb45e987bc0c60ac07e953184acc417887252dd32851ee055cacb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/NewTVLive.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_NewTVLive_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "NewTVLive",
@@ -1555,7 +1645,7 @@
     "fileHash": "sha256-8c6a381eb8c02bb98feab240f9fa40df467443a656d8537728ee061219112b82"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/OiDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_OiDrama_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "OiDrama",
@@ -1576,7 +1666,7 @@
     "fileHash": "sha256-3b72f04b0ba1ee8ab1193c2d4d00491470f89dce30a7abfbd76169346ef77289"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/PowerSinema.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_PowerSinema_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "PowerSinema",
@@ -1598,7 +1688,7 @@
     "fileHash": "sha256-8a946b6541ef9226556df4ae421b0b2449bd97607241a5de7942bd6e2bd2207c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/RareFilmm.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_RareFilmm_v7.cs3",
     "status": 3,
     "version": 7,
     "name": "RareFilmm",
@@ -1621,7 +1711,7 @@
     "fileHash": "sha256-782a8d55abf8b854db5e46b07592a96f177e66176cf1e9f2b6d14deb6e40358f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/RecTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_RecTV_v118.cs3",
     "status": 1,
     "version": 118,
     "name": "RecTV",
@@ -1633,7 +1723,7 @@
       "JustRelaxable"
     ],
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "fileSize": 144212,
+    "fileSize": 31177,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1643,10 +1733,10 @@
     ],
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-7852d7c9d1fa35e6b276302155552cf3aba32bd2b4e2ad3fc0c69c4422042019"
+    "fileHash": "sha256-a2214ae0f06c69a2bea97febf98a058e75fd5437161a8716d9f3f69496dea751"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SelcukSports.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_SelcukSports_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "SelcukSports",
@@ -1666,7 +1756,7 @@
     "fileHash": "sha256-ab026e75dd18ed3c4e02355cb19ade60c1aa53250f6204b3a8d090218d1573d3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SetFilmIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SetFilmIzle_v11.cs3",
     "status": 1,
     "version": 11,
     "name": "SetFilmIzle",
@@ -1689,7 +1779,7 @@
     "fileHash": "sha256-d496ce77c2df948ea754a16a404bcb58a48c29b02bed77b4cadf62df53ca520c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SezonlukDizi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SezonlukDizi_v10.cs3",
     "status": 3,
     "version": 10,
     "name": "SezonlukDizi",
@@ -1712,7 +1802,7 @@
     "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Shortizle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Shortizle_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "Shortizle",
@@ -1733,7 +1823,7 @@
     "fileHash": "sha256-fbf700566931c69dda13cb1eed73fff8363c3087e9e6e347ab952c08c1ff5c7a"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ShortMax.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_ShortMax_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "ShortMax",
@@ -1748,7 +1838,7 @@
     "fileHash": "sha256-7b7f6018860814600b923052cdca48f366605b81128895961f8ef50713ef36b7"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ShortsWave.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_ShortsWave_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "ShortsWave",
@@ -1769,7 +1859,7 @@
     "fileHash": "sha256-615715eedd00a46daea69f2fea3ef197650b6819b12d02097b621e56941d3e60"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ShotShort.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_ShotShort_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "ShotShort",
@@ -1784,7 +1874,7 @@
     "fileHash": "sha256-4c1dd5783224fe9cbd96fa9eebcb42c590d4644ae54e3ea7d550b211ff976b4b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SinemaCX.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_SinemaCX_v26.cs3",
     "status": 1,
     "version": 26,
     "name": "SinemaCX",
@@ -1793,7 +1883,7 @@
       "keyiflerolsun"
     ],
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "fileSize": 110074,
+    "fileSize": 16712,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1801,10 +1891,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-ac9f6f24e849622e0ea589ca54f43d2dc41c802b2099890b6e8cd0282b3c7eb3"
+    "fileHash": "sha256-f3cbca05555b5f02609b6c7c928d87402acca77df3081ca27f2b31a95c9b01bf"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SinemaGG.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SinemaGG_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "SinemaGG",
@@ -1827,7 +1917,7 @@
     "fileHash": "sha256-0af192012a76ba180091460ed8f47a1eb67a10f14388fb676056ecaa52b63b63"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Sinemakolik.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Sinemakolik_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "Sinemakolik",
@@ -1850,7 +1940,7 @@
     "fileHash": "sha256-5e181c44252298f77287c0d1910b7b730d881f541e8b16e665b7d5fe3dfd8037"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SinemaTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SinemaTV_v9.cs3",
     "status": 1,
     "version": 9,
     "name": "SinemaTV",
@@ -1873,7 +1963,7 @@
     "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/StardustTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_StardustTV_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "StardustTV",
@@ -1894,7 +1984,7 @@
     "fileHash": "sha256-5b5b7b976dcdd6082e424af1c25fab5c9a13a47a8867a60f047e9bb2e2c86edb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TLCtr.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_TLCtr_v19.cs3",
     "status": 1,
     "version": 19,
     "name": "TLCtr",
@@ -1903,7 +1993,7 @@
       "keyiflerolsun"
     ],
     "description": "TLC tr",
-    "fileSize": 108169,
+    "fileSize": 14282,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1911,10 +2001,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-f81006b91b12dc76737309eece58fc7e1053a95db2c29d87ed42dfee1def7ece"
+    "fileHash": "sha256-824c09393361fbd6a4f680bb5ed0e4df3de5dc415505313f173bdd2816919b4d"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TrAnimeIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_TrAnimeIzle_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "TrAnimeIzle",
@@ -1936,7 +2026,7 @@
     "fileHash": "sha256-4848d40ee081087f28c3f600e01331aa01e058de5de3ed14490e863b695a4c17"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TrDiziIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_TrDiziIzle_v9.cs3",
     "status": 1,
     "version": 9,
     "name": "TrDiziIzle",
@@ -1959,7 +2049,7 @@
     "fileHash": "sha256-43085f24e496bd549e9c16a727f2fe2a5561e8d6aa96fcf4d4a5d41235c816c9"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TryDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_TryDrama_v18.cs3",
     "status": 1,
     "version": 18,
     "name": "TryDrama",
@@ -1980,7 +2070,7 @@
     "fileHash": "sha256-40c31efc16fdd3bf0dad0cde95badb35f168671995b22d04e3d4d49a2bd5212f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Velarium.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Velarium_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "Velarium",
@@ -2001,7 +2091,7 @@
     "fileHash": "sha256-4459c5b60080fc169016387244ccb46005167913b3501b4b01e0b05fa645ac42"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/VibeShort.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_VibeShort_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "VibeShort",
@@ -2022,7 +2112,7 @@
     "fileHash": "sha256-1e777d191ada937542e9f3cb45cbc0e6c92353360d3aa9f938daefee51287d05"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Watch2Movies.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Watch2Movies_v8.cs3",
     "status": 3,
     "version": 8,
     "name": "Watch2Movies",
@@ -2045,7 +2135,7 @@
     "fileHash": "sha256-626e66912f6503d589b64200d56423dd4a68b8a78aceb835ab6b42b60c68c070"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WebteIzle.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_WebteIzle_v21.cs3",
     "status": 1,
     "version": 21,
     "name": "WebteIzle",
@@ -2054,7 +2144,7 @@
       "keyiflerolsun"
     ],
     "description": "Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 27009,
+    "fileSize": 24117,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -2062,10 +2152,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-411c4926d023c7ed1a2eb8f3c500961edda368abab8b394d7833bbae3bfc0c71"
+    "fileHash": "sha256-c014c951be6263c0eea12449fa1ebf5b0cbd309bf7359afff7dc4f9720540d63"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioCinema.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_WioCinema_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "WioCinema",
@@ -2086,7 +2176,7 @@
     "fileHash": "sha256-b7b55645a51f4830968905e2ba6ddcc7c6a2cd4d59b3c58a6395aa0e42a0acc2"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioShort.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_WioShort_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "WioShort",
@@ -2107,7 +2197,7 @@
     "fileHash": "sha256-7f2964275caed28004902d10eb7f67f58d6be929aef1643e9909371925be3a15"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_WioSpor_v56.cs3",
     "status": 3,
     "version": 56,
     "name": "WioSpor",
@@ -2127,7 +2217,7 @@
     "fileHash": "sha256-b1b4fe72a52f6ef95fc790699313d2b6cd46ffc6a6307656fd70d101648ebff0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/YabanciDizi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ripplay_YabanciDizi_v9.cs3",
     "status": 1,
     "version": 9,
     "name": "YabanciDizi",
@@ -2136,7 +2226,7 @@
       "nikyokki"
     ],
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "fileSize": 47600,
+    "fileSize": 47599,
     "repositoryUrl": "https://github.com/Ripplay/cloudstream-repo",
     "language": "tr",
     "tvTypes": [
@@ -2144,10 +2234,10 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-90a7cd82b5041a02023fefaa33f362478d0e802992bd7d256e34dd6f646b66ee"
+    "fileHash": "sha256-4156650848763ecd307a3a688c36fa5414bc65ab1b914b3ccb8f345422e9846b"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/YesilCamTv.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_YesilCamTv_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "YesilCamTv",
@@ -2175,7 +2265,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Deokwave.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Deokwave_v13.cs3",
     "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
     "tvTypes": [
       "Anime",
@@ -2189,7 +2279,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TRanimaci.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_TRanimaci_v19.cs3",
     "status": 1,
     "version": 19,
     "name": "TRanimaci",
@@ -2199,7 +2289,7 @@
       "patr0n"
     ],
     "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 111632,
+    "fileSize": 16863,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -2207,7 +2297,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-985875e131fce17cfd0ad0904dd1265ba5d4f8cae6b99bba13e480de503c05cf"
+    "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c"
   },
   {
     "name": "WebDramaTurkey",
@@ -2218,7 +2308,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WebDramaTurkey.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_WebDramaTurkey_v10.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@main/assets/providers/WebDramaTurkey.svg",
     "tvTypes": [
       "AsianDrama",
@@ -2241,7 +2331,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AsyaWatch.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_AsyaWatch_v3.cs3",
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=128",
     "tvTypes": [
       "AsianDrama",
@@ -2262,7 +2352,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziWatch.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_DiziWatch_v12.cs3",
     "iconUrl": "https://www.google.com/s2/favicons?domain=diziwatch.app&sz=128",
     "tvTypes": [
       "Anime",
@@ -2283,7 +2373,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ArcanaDrama.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_ArcanaDrama_v1.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/arcanadrama.png",
     "tvTypes": [
       "AsianDrama",
@@ -2304,7 +2394,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Konflix.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Konflix_v1.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/konflix.png",
     "tvTypes": [
       "Movie",
@@ -2327,7 +2417,7 @@
       "Adnan4161"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/NetTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_NetTV_v1.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/nettv.png",
     "tvTypes": [
       "Live",
@@ -2341,27 +2431,6 @@
     "apiVersion": 1
   },
   {
-    "name": "WioDB",
-    "internalName": "WioDB",
-    "version": 8,
-    "description": "WioDB - DoÄŸrudan Cloudflare Gateway ve Ã–zel DB Destekli Ultra HÄ±zlÄ± OynatÄ±cÄ±",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioDB.cs3",
-    "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/wiodb.png",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "language": "tr",
-    "status": 1,
-    "fileSize": 29491,
-    "fileHash": "sha256-ce90624e3632b14563c69354b66b54703d27a44b652cb8a8de308dc1e0f95ab3",
-    "apiVersion": 1
-  },
-  {
     "name": "SeyirTURK",
     "internalName": "SeyirTURK",
     "version": 13,
@@ -2370,7 +2439,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SeyirTURK.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SeyirTURK_v13.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/seyirturk.png",
     "tvTypes": [
       "Movie",
@@ -2379,8 +2448,8 @@
     ],
     "language": "tr",
     "status": 1,
-    "fileSize": 261847,
-    "fileHash": "sha256-d67d136d887adfb38463a402ed2bb9890cc4226200d74002def1aa16f30290d4",
+    "fileSize": 219696,
+    "fileHash": "sha256-eb79546afa084edc1881087bd7abf45ade7335965db61a245e2b4103b5b61ee3",
     "apiVersion": 1
   },
   {
@@ -2392,7 +2461,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SportsReplay.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_SportsReplay_v2.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/sportsreplay.png",
     "tvTypes": [
       "Live",
@@ -2414,7 +2483,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Catcast.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_Catcast_v3.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/TurkSinema@builds/assets/catcast.png",
     "tvTypes": [
       "Live"
@@ -2434,7 +2503,7 @@
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/OnePaceTR.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_OnePaceTR_v1.cs3",
     "iconUrl": "https://cdn.jsdelivr.net/gh/Wiojelt/test@builds/assets/onepacetr.png",
     "tvTypes": [
       "Anime",
@@ -2447,7 +2516,7 @@
     "apiVersion": 1
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioIPTVPanels.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSinema_WioIPTVPanels_v2.cs3",
     "status": 3,
     "version": 2,
     "name": "WioIPTVPanels",
@@ -2467,7 +2536,7 @@
     "fileHash": "sha256-d76c13398d2bad687f188cdab81f4a1e216889868d2136766c85de979ced42cd"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AnimeciX.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_AnimeciX_v21.cs3",
     "status": 1,
     "version": 21,
     "name": "AnimeciX",
@@ -2478,7 +2547,7 @@
       "JustRelaxable"
     ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 30115,
+    "fileSize": 26561,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -2486,10 +2555,10 @@
     ],
     "iconUrl": "https://animecix.tv/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-055358ccccd9ebea9fa5e1dc6e1d971e6760af73819dd8abb95ac3c6554c8456"
+    "fileHash": "sha256-63a0b89a612fb5820898dcf02e73d8b8d9b558f5f0d8ccd7ab15fce2217cd89f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CanliTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_CanliTV_v10.cs3",
     "status": 1,
     "version": 10,
     "name": "CanliTV",
@@ -2510,7 +2579,7 @@
     "fileHash": "sha256-d4e8de61fd99275ecda7a2c1a53da5b1643cfa42e8f6bba0c32383b722de14db"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziGom.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_DiziGom_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "DiziGom",
@@ -2530,7 +2599,7 @@
     "fileHash": "sha256-ccf2b1b9196ed30d6ef44e203d7224dfa92a9bce959e7a9bbd0ba694e7d908a7"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziMag.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_DiziMag_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "DiziMag",
@@ -2551,7 +2620,7 @@
     "fileHash": "sha256-f57c68053e7f4fadefd79157baec07e8557ebc9b72c7354bf0b42121f8a52f14"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziPod.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziPod_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "DiziPod",
@@ -2572,7 +2641,7 @@
     "fileHash": "sha256-c4be7b192eec30ffc084f8df86e30f0ccc59270e58fe7dc99b989677963224f5"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/IzleAI.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_IzleAI_v6.cs3",
     "status": 1,
     "version": 6,
     "name": "IzleAI",
@@ -2593,7 +2662,7 @@
     "fileHash": "sha256-3a15fa99912e552d924e83766aee92f01547300a8a65d34f312708c8d3ec561f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/powerDizi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_powerDizi_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "powerDizi",
@@ -2613,7 +2682,7 @@
     "fileHash": "sha256-1313446d7bf7120588033bc23b326f45d37303bed7506ac389054f32403671ef"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SporTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_SporTV_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "SporTV",
@@ -2633,7 +2702,7 @@
     "fileHash": "sha256-f14b71bfebd63fb4fe601605017cdb07d95ec9cb6542794f9aad690d00e6c222"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TLC.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_TLC_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "TLC",
@@ -2653,7 +2722,7 @@
     "fileHash": "sha256-58ebb96733b6b8d0acfef3363abc7d8f45035183581a740fc63bc285b5652286"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/vavooSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_vavooSpor_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "vavooSpor",
@@ -2673,7 +2742,7 @@
     "fileHash": "sha256-e76070d939180af8389642835c8d6e6703f5fe771996f0bee95076eeba0ba595"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/XPrime.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BTVault_XPrime_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "XPrime",
@@ -2693,7 +2762,7 @@
     "fileHash": "sha256-45a5f19218316ca7713f17274d6747efebc678cab9e0278703d0be898bd30427"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ArdaSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_ArdaSpor_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "ArdaSpor",
@@ -2713,7 +2782,7 @@
     "fileHash": "sha256-2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AslanTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_AslanTV_v13.cs3",
     "status": 3,
     "version": 13,
     "name": "AslanTV",
@@ -2733,7 +2802,7 @@
     "fileHash": "sha256-c7ad4d0ca6544c5897ef13dbe5740af167c465d00b38eb09ec7d667aef8ed739"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AtomSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_AtomSpor_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "AtomSpor",
@@ -2752,7 +2821,7 @@
     "fileHash": "sha256-bd733112e5527ee491ce087b139624711e7e575f504233d91a41f2a6be1a8a26"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BasketballReplays.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_BasketballReplays_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "BasketballReplays",
@@ -2773,7 +2842,7 @@
     "fileHash": "sha256-7842f847e93a3c44a18d8150a4fd5eb2ba77bd0739795867f23b041411f17715"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BasketballVideo.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_BasketballVideo_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "BasketballVideo",
@@ -2794,7 +2863,7 @@
     "fileHash": "sha256-1114aa4a1ffda6b58c2dda5bbf7db27b6b12d1bec86d6de0881930d8e413d2d6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BetmatikTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_BetmatikTV_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "BetmatikTV",
@@ -2814,7 +2883,7 @@
     "fileHash": "sha256-b6304052c9e77ea36c957e55e66e2706aba4a1023cdf350fb019609fab09b8a8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BeyazElma.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_BeyazElma_v12.cs3",
     "status": 3,
     "version": 12,
     "name": "BeyazElma",
@@ -2834,7 +2903,7 @@
     "fileHash": "sha256-4948e352375d04fad0510847b0127aa8226176e7ac1aaf048ae7ff7d058adcd6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/BirdirbirIPTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_BirdirbirIPTV_v28.cs3",
     "status": 3,
     "version": 28,
     "name": "BirdirbirIPTV",
@@ -2853,7 +2922,7 @@
     "fileHash": "sha256-a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/CiftD2M.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_CiftD2M_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "CiftD2M",
@@ -2873,7 +2942,7 @@
     "fileHash": "sha256-b6896901f518629155cb285e3e4d2f5a48364439b433b537e9e13ea607a14ab8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Crex.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_Crex_v9.cs3",
     "status": 3,
     "version": 9,
     "name": "Crex",
@@ -2893,7 +2962,7 @@
     "fileHash": "sha256-1d9ba5e7432350adcf88eb5318a4773ba300383287a380912c08c1da59d6259e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DaddyLive.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_DaddyLive_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "DaddyLive",
@@ -2913,7 +2982,7 @@
     "fileHash": "sha256-dcdfb3739406909993b67bfb532495f087f1524028e1cc0cd6445415ffbaced8"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DomatesTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_DomatesTV_v6.cs3",
     "status": 3,
     "version": 6,
     "name": "DomatesTV",
@@ -2933,7 +3002,7 @@
     "fileHash": "sha256-a458f3331ff41fd1191a3ba07a5aaeabde10dc4b6aff953a8687abc2e1a0622c"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/InterSporTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_InterSporTV_v10.cs3",
     "status": 3,
     "version": 10,
     "name": "InterSporTV",
@@ -2953,7 +3022,7 @@
     "fileHash": "sha256-edb8f888196e357a04edc46ef115f9b129ba7f68719ff41f8ebc0bd2d05b10f1"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/JestYayin.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_JestYayin_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "JestYayin",
@@ -2973,7 +3042,7 @@
     "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/KacakSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_KacakSpor_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "KacakSpor",
@@ -2992,7 +3061,7 @@
     "fileHash": "sha256-7932cf04098961f00c646efd54e4ab6fa564d8cad6bb08fba7d2f6754d17fdf0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/KoalaTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_KoalaTV_v5.cs3",
     "status": 3,
     "version": 5,
     "name": "KoalaTV",
@@ -3012,7 +3081,7 @@
     "fileHash": "sha256-c813e1be8f76ff8c01f1e61dc8aa20d4b63e984af025cc6ae394ec9a5dd70254"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/KralSporHD.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_KralSporHD_v5.cs3",
     "status": 3,
     "version": 5,
     "name": "KralSporHD",
@@ -3032,7 +3101,7 @@
     "fileHash": "sha256-62c6cd0bd05570fa39c84f529de619ac61fe2b2d7fab83603311ab4af35ebb29"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/LeoTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_LeoTV_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "LeoTV",
@@ -3051,7 +3120,7 @@
     "fileHash": "sha256-dbce2939ae71d3d7e2f3ba69eab4e09a36689050eca6e5a91202280afddb9b3e"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MacKeyfi.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_MacKeyfi_v10.cs3",
     "status": 3,
     "version": 10,
     "name": "MacKeyfi",
@@ -3071,7 +3140,7 @@
     "fileHash": "sha256-be1fa09cd281b1f0187b084daa3da4a0c9b881679043c9865eba081d71c88437"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/MahsunSports.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_MahsunSports_v9.cs3",
     "status": 3,
     "version": 9,
     "name": "MahsunSports",
@@ -3091,7 +3160,7 @@
     "fileHash": "sha256-25e1f1d1f863015e5c530db2be18148158281e4663e845bc46eea7be0306ded6"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/NebulaSports.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_NebulaSports_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "NebulaSports",
@@ -3111,7 +3180,7 @@
     "fileHash": "sha256-2fce527406e70253ffced09a8d5fe9eac077fb15884c0b3160a90e23969fd51f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/NetVGold.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_NetVGold_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "NetVGold",
@@ -3131,7 +3200,7 @@
     "fileHash": "sha256-d1bf7dcba3da7b13d21850505d7a3e297c0b5cf890fba0d3acfba352a0114b73"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Ntvs.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_Ntvs_v5.cs3",
     "status": 1,
     "version": 5,
     "name": "Ntvs",
@@ -3151,7 +3220,7 @@
     "fileHash": "sha256-e102ed9fad9f9c72df3051fb8bf01e678f161d91dde6b7213028be67575b1d13"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/PapazSports.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_PapazSports_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "PapazSports",
@@ -3171,7 +3240,7 @@
     "fileHash": "sha256-1c6e2b5b8aca897fbe20b8e39636c1cb6d2cb155a02314a8efb5ab4aa82823d3"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/PatronHD.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_PatronHD_v17.cs3",
     "status": 3,
     "version": 17,
     "name": "PatronHD",
@@ -3191,7 +3260,7 @@
     "fileHash": "sha256-0a23118baf665692d78258be70bc7e833440c8c7674a0625067e0f0e82965475"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/StbTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_StbTV_v7.cs3",
     "status": 1,
     "version": 7,
     "name": "StbTV",
@@ -3211,7 +3280,7 @@
     "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/StreamEast.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_StreamEast_v2.cs3",
     "status": 1,
     "version": 2,
     "name": "StreamEast",
@@ -3231,7 +3300,7 @@
     "fileHash": "sha256-1580e234f1abc0085041633e9be89d6cc93982741f497074e6370380bf59328f"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Streamed.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_Streamed_v3.cs3",
     "status": 1,
     "version": 3,
     "name": "Streamed",
@@ -3251,7 +3320,7 @@
     "fileHash": "sha256-779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Taraftarium24.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_Taraftarium24_v14.cs3",
     "status": 3,
     "version": 14,
     "name": "Taraftarium24",
@@ -3271,7 +3340,7 @@
     "fileHash": "sha256-e56f19bb0defe1e321e964a5b30fc72759c5351c169fdfc8d476ffca858c4d69"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TimStreams.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_TimStreams_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "TimStreams",
@@ -3291,7 +3360,7 @@
     "fileHash": "sha256-0512185930a054789a25b0daad7cefa8814a756f060595eb01700751baa38dd5"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TRGoals.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_TRGoals_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "TRGoals",
@@ -3311,7 +3380,7 @@
     "fileHash": "sha256-b6fd54dc05d497e55c6476e00e7a594cdb69df610d2ba5c58e5ab378904c7dbd"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_TurkSpor_v6.cs3",
     "status": 3,
     "version": 6,
     "name": "TurkSpor",
@@ -3331,7 +3400,7 @@
     "fileHash": "sha256-21c99ad664d4d3f7c29a3340d761fb3e2ce83c162e02d7f6a9549e921d255aff"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/VegolTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_VegolTV_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "VegolTV",
@@ -3350,7 +3419,7 @@
     "fileHash": "sha256-43f41ab9a88297253bb2c0265f7c760b3f0379265d4e1d2a955a3fd8bfcead40"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/VionTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_VionTV_v3.cs3",
     "status": 3,
     "version": 3,
     "name": "VionTV",
@@ -3370,7 +3439,7 @@
     "fileHash": "sha256-884ee3683da9f4d74f3dbbd07fc6c420c1ab1d1f633d4c36e1a85eb2c32b1c40"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/VivoXSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_VivoXSpor_v4.cs3",
     "status": 3,
     "version": 4,
     "name": "VivoXSpor",
@@ -3390,7 +3459,7 @@
     "fileHash": "sha256-f8dd765ea7df9ef1ad28cb2185a877e047c23f9b6903ce45df30683d20914a48"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WiojeltSpor.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_WiojeltSpor_v10.cs3",
     "status": 0,
     "version": 10,
     "name": "WiojeltSpor",
@@ -3410,7 +3479,7 @@
     "fileHash": "sha256-11ef7ebe2b0f09f0c81b76465ebb16482c9355c5c48a31be9acd0bb9514137a0"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WioMulti.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_WioMulti_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "WioMulti",
@@ -3430,7 +3499,7 @@
     "fileHash": "sha256-6dd0bb027803fa91105e06fe02e4a09571c5d91d511f84a6d51bd9f2b23a1989"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/ZbahisTV.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_ZbahisTV_v10.cs3",
     "status": 3,
     "version": 10,
     "name": "ZbahisTV",
@@ -3450,7 +3519,7 @@
     "fileHash": "sha256-390973708658c0debebe7f76d6d7f6be3b788dc57d4d2ef18789aa45b71dfd63"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TRLive.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkSpor_TRLive_v1.cs3",
     "status": 3,
     "version": 1,
     "name": "TRLive",
@@ -3470,7 +3539,7 @@
     "fileHash": "sha256-cc2a0bdc3476df31149cf868351ac12ac0da55829157d663763c9f2757c79162"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/AsyaAnimeleri.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_AsyaAnimeleri_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "AsyaAnimeleri",
@@ -3490,7 +3559,7 @@
     "fileHash": "sha256-a9d6c39db58cf5d3cf79506724011ea62c1f9e2cb4d5ff64eaf1297375adf948"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/DiziKorea.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_DiziKorea_v41.cs3",
     "status": 1,
     "version": 41,
     "name": "DiziKorea",
@@ -3510,7 +3579,7 @@
     "fileHash": "sha256-1958c66dd0c32ab436adc333504c1183322653afa048425509a7dfc4898ba0da"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/Sinewix.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_Sinewix_v4.cs3",
     "status": 1,
     "version": 4,
     "name": "Sinewix",
@@ -3533,7 +3602,7 @@
     "fileHash": "sha256-104fcceef435c42394007414644620fb7f9b2296443d20a420b2ffe552e01b22"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TRasyalog.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_TRasyalog_v66.cs3",
     "status": 1,
     "version": 66,
     "name": "TRasyalog",
@@ -3553,7 +3622,7 @@
     "fileHash": "sha256-f12369ff3781065c903933908ea07d43d2d1d6bcaf471eaac941656b9e0866e5"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/TurkAnime.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_TurkAnime_v14.cs3",
     "status": 1,
     "version": 14,
     "name": "TurkAnime",
@@ -3573,7 +3642,7 @@
     "fileHash": "sha256-d7ee0b46c87af55f42f080972f05e610fe2e0b21a7e7858dc80c171d2e308fa7"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/WebdramaTurkey2.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/FeroxxKekik_WebdramaTurkey2_v1.cs3",
     "status": 1,
     "version": 1,
     "name": "WebdramaTurkey2",
@@ -3596,7 +3665,7 @@
     "fileHash": "sha256-ce827d142fd809a36c5e0e0d6db6fa928e8e0e30d90f2cd9042359e2a0b245fb"
   },
   {
-    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/SuperStream.cs3",
+    "url": "https://cdn.jsdelivr.net/gh/MrKonce/ozel-cs-repom@main/builds/PhisherGlobal_SuperStream_v43.cs3",
     "status": 1,
     "version": 43,
     "name": "SuperStream",

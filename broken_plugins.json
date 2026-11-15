@@ -1,31 +1,10 @@
 [
   {
-    "name": "DiziPalHub",
-    "internalName": "DiziPalHub",
-    "source": "TurkSinema",
-    "version": 27,
-    "reason": "Kara liste (Blacklist) engeli"
-  },
-  {
     "name": "Youku",
     "internalName": "Youku",
     "source": "TurkSinema",
     "version": 1,
     "reason": "Yabancı dil filtresi (zh)"
-  },
-  {
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "source": "Ripplay",
-    "version": 48,
-    "reason": "Kara liste (Blacklist) engeli"
-  },
-  {
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "source": "Feroxx Kekik",
-    "version": 122,
-    "reason": "Kara liste (Blacklist) engeli"
   },
   {
     "name": "AllMovieLandProvider",
@@ -711,7 +690,7 @@
     "internalName": "DDizi",
     "source": "Ripplay",
     "version": 2,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (Ddizi v24)"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "DiziBox",
@@ -754,13 +733,6 @@
     "source": "TurkSinema",
     "version": 10,
     "reason": "Daha güncel/çalışan versiyonu seçildi (DiziMom v64)"
-  },
-  {
-    "name": "DiziPalOriginal",
-    "internalName": "DiziPalOriginal",
-    "source": "TurkSinema",
-    "version": 10,
-    "reason": "Daha güncel/çalışan versiyonu seçildi (DiziPalOriginal v115)"
   },
   {
     "name": "DiziYou",
@@ -977,14 +949,14 @@
     "internalName": "SetFilmIzle",
     "source": "Feroxx Kekik",
     "version": 32,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: fastplay.mom (Sunucu hatası (HTTP 404)))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
     "name": "SevenReels",
     "internalName": "SevenReels",
     "source": "TurkSinema",
     "version": 4,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: 7reels.cc (Erişim hatası / Alan adı kapalı / Zaman aşımı))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "SezonlukDizi",
@@ -1078,6 +1050,13 @@
     "reason": "Daha güncel/çalışan versiyonu seçildi (AsyaWatch v3)"
   },
   {
+    "name": "WioDB",
+    "internalName": "WioDB",
+    "source": "TurkSinema",
+    "version": 8,
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
+  },
+  {
     "name": "SeyirTURK",
     "internalName": "SeyirTURK",
     "source": "TurkSpor",
@@ -1110,48 +1089,48 @@
     "internalName": "HDFilmIzle",
     "source": "Ripplay",
     "version": 8,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: vidrame.pro (Sunucu hatası (HTTP 404)))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
     "name": "HDFilmIzle",
     "internalName": "HDFilmIzle",
     "source": "BTVault",
     "version": 3,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: vidrame.pro (Sunucu hatası (HTTP 404)))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
     "name": "YouTube",
     "internalName": "YouTube",
     "source": "BTVault",
     "version": 5,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: i.ytimg.com (Sunucu hatası (HTTP 404)))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Sunucu Hatası (HTTP 404))"
   },
   {
     "name": "Dexter",
     "internalName": "Dexter",
     "source": "TurkSpor",
     "version": 1,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: betmatiktv155.com (Erişim hatası / Alan adı kapalı / Zaman aşımı))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "Warflix",
     "internalName": "Warflix",
     "source": "TurkSpor",
     "version": 1,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: 111movies.com (Erişim hatası / Alan adı kapalı / Zaman aşımı))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "WioSync",
     "internalName": "WioSync",
     "source": "TurkSpor",
     "version": 2,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: betmatiktv155.com (Erişim hatası / Alan adı kapalı / Zaman aşımı))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   },
   {
     "name": "OwnedSites",
     "internalName": "OwnedSites",
     "source": "Ripplay",
     "version": 2,
-    "reason": "Hedef site kapalı / ulaşılamıyor (Domain: dizibal.com (Erişim hatası / Alan adı kapalı / Zaman aşımı))"
+    "reason": "Hedef site kapalı / ulaşılamıyor (Erişim hatası / Zaman aşımı)"
   }
 ]
