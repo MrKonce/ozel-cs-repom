@@ -1002,16 +1002,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_TrAnimeIzle_v3.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_TrAnimeIzle_v4.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 119361,
+    "fileSize": 111020,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
@@ -1221,6 +1221,27 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112909,
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_TurkceCizgiFilmArsivi_v1.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TurkceCizgiFilmArsivi",
+    "internalName": "TurkceCizgiFilmArsivi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WioKids · Turkcecizgifilmarsivi.online çizgi film ve animasyon arşivi",
+    "fileSize": 109197,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
     "apiVersion": 1
   },
   {

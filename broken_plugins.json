@@ -1143,7 +1143,7 @@
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "source": "TurkSinema",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TrAnimeIzle v3' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TrAnimeIzle v4' seçildi."
   },
   {
     "name": "WebteIzle",
@@ -1264,6 +1264,12 @@
     "internalName": "OnePaceTR",
     "source": "TurkSinema",
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'One Pace TR v1' seçildi."
+  },
+  {
+    "name": "TurkceCizgiFilmArsivi",
+    "internalName": "TurkceCizgiFilmArsivi",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'TurkceCizgiFilmArsivi v1' seçildi."
   },
   {
     "name": "AnimeciX",
