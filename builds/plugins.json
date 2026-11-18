@@ -19,7 +19,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 234530
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalOriginal_v10.cs3",
@@ -41,7 +42,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 236781
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/Ripplay_DiziPal_v48.cs3",
@@ -124,7 +126,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/ailetv.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 119619
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AltiYuzAltmisAltiFilmIzle_v8.cs3",
@@ -146,7 +149,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 106334
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AniArsiv_v1.cs3",
@@ -167,7 +171,8 @@
       "OVA"
     ],
     "iconUrl": "https://aniarsiv.com/favicon.ico",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 110540
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AnizmProvider_v24.cs3",
@@ -188,7 +193,8 @@
       "OVA"
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113819
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_BelgeselX_v17.cs3",
@@ -228,7 +234,8 @@
       "TvSeries"
     ],
     "iconUrl": "https://bingebang.st/icon-512.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 125514
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_CizgiMax_v17.cs3",
@@ -271,7 +278,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 149656
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_CNCVerseNetflix_v8.cs3",
@@ -293,7 +301,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 149688
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_CNCVersePrimeVideo_v8.cs3",
@@ -315,7 +324,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 149701
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Ddizi_v24.cs3",
@@ -356,7 +366,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 119156
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziBal_v8.cs3",
@@ -378,7 +389,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 139169
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziBol_v8.cs3",
@@ -400,7 +412,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 139195
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziBox_v26.cs3",
@@ -441,7 +454,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 139230
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v95.cs3",
@@ -501,7 +515,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 139197
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziYou_v26.cs3",
@@ -523,24 +538,22 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Dmax_v1.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "Dmax",
-    "internalName": "Dmax",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_DMax_v2.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "DMax",
+    "internalName": "DMax",
     "authors": [
-      "Wiojelt"
+      "BTcozum"
     ],
-    "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
-    "fileSize": 113520,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "description": "DMAX - Belgesel ve macera dizileri",
+    "fileSize": 14367,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
-      "Documentary",
-      "TvSeries",
-      "Live"
+      "TvSeries"
     ],
-    "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.com.tr&sz=%size%",
     "apiVersion": 1
   },
   {
@@ -602,7 +615,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113019
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_HDFilmCehennemi_v58.cs3",
@@ -644,7 +658,8 @@
       "AsianDrama"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/hintfilmizle_icon.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 166127
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_InatBox_v30.cs3",
@@ -687,7 +702,8 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 103804
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_JetFilmizle_v48.cs3",
@@ -747,7 +763,8 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113561
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_MinikaGO_v3.cs3",
@@ -768,11 +785,12 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113547
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_NewTVLive_v4.cs3",
-    "status": 1,
+    "status": 3,
     "version": 4,
     "name": "NewTVLive",
     "internalName": "NewTVLive",
@@ -787,7 +805,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/newtvlive.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 180632
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_RareFilmm_v7.cs3",
@@ -809,7 +828,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113835
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_RecTV_v118.cs3",
@@ -853,7 +873,8 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 294472
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_SetFilmIzle_v32.cs3",
@@ -895,7 +916,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 124477
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_SinemaCX_v26.cs3",
@@ -936,7 +958,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 111353
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Sinemakolik_v1.cs3",
@@ -958,7 +981,8 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 122209
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SinemaTV_v9.cs3",
@@ -980,7 +1004,8 @@
       "Cartoon"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 135132
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_TLCtr_v19.cs3",
@@ -1020,7 +1045,8 @@
       "OVA"
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 111020
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_WebteIzle_v21.cs3",
@@ -1058,7 +1084,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 835705
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/Ripplay_YabanciDizi_v9.cs3",
@@ -1119,7 +1146,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 140524,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 140524
   },
   {
     "name": "AsyaWatch",
@@ -1139,7 +1167,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 121700,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 121700
   },
   {
     "name": "DiziWatch",
@@ -1159,7 +1188,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 110804,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 110804
   },
   {
     "name": "Konflix",
@@ -1180,7 +1210,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 113599,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 113599
   },
   {
     "name": "SeyirTURK",
@@ -1201,7 +1232,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 219696,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 219696
   },
   {
     "name": "One Pace TR",
@@ -1221,7 +1253,8 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112909,
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 112909
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_TurkceCizgiFilmArsivi_v1.cs3",
@@ -1242,7 +1275,8 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 109197
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_AnimeciX_v21.cs3",
@@ -1286,16 +1320,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_DiziGom_v1.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_DiziGom_v3.cs3",
     "status": 1,
-    "version": 1,
+    "version": 3,
     "name": "DiziGom",
     "internalName": "DiziGom",
     "authors": [
       "BTcozum"
     ],
     "description": "DiziGom - Yabanci dizi izle",
-    "fileSize": 20207,
+    "fileSize": 25442,
     "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
@@ -1305,16 +1339,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_DiziMag_v2.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_DiziMag_v4.cs3",
     "status": 1,
-    "version": 2,
+    "version": 4,
     "name": "DiziMag",
     "internalName": "DiziMag",
     "authors": [
       "BTcozum"
     ],
     "description": "DiziMag - Turkce altyazili yabanci dizi",
-    "fileSize": 30432,
+    "fileSize": 41513,
     "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
@@ -1325,17 +1359,17 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPod_v3.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_Dizipod_v4.cs3",
     "status": 1,
-    "version": 3,
-    "name": "DiziPod",
-    "internalName": "DiziPod",
+    "version": 4,
+    "name": "Dizipod",
+    "internalName": "Dizipod",
     "authors": [
-      "patr0n"
+      "BTcozum"
     ],
-    "description": "Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
-    "fileSize": 23522,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "Dizipod - Yabanci dizi ve film izle (Turkce altyazili)",
+    "fileSize": 20366,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
       "TvSeries",
@@ -1345,9 +1379,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_IzleAI_v6.cs3",
-    "status": 1,
-    "version": 6,
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_IzleAI_v7.cs3",
+    "status": 0,
+    "version": 7,
     "name": "IzleAI",
     "internalName": "IzleAI",
     "authors": [
@@ -1365,9 +1399,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_powerDizi_v1.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_powerDizi_v2.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "powerDizi",
     "internalName": "powerDizi",
     "authors": [
@@ -1384,16 +1418,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_SporTV_v1.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_SporTV_v2.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "SporTV",
     "internalName": "SporTV",
     "authors": [
       "BTcozum"
     ],
     "description": "SporTV - Canli spor kanallari (TRT Spor, beIN Sports, Eurosport, NBA TV ve daha fazlasi)",
-    "fileSize": 13714,
+    "fileSize": 13715,
     "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
     "language": "tr",
     "tvTypes": [
@@ -1403,9 +1437,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_vavooSpor_v2.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_vavooSpor_v3.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "vavooSpor",
     "internalName": "vavooSpor",
     "authors": [
@@ -1422,9 +1456,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_XPrime_v1.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_XPrime_v2.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "XPrime",
     "internalName": "XPrime",
     "authors": [
@@ -1441,9 +1475,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_YouTube_v5.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/BTVault_YouTube_v6.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "YouTube",
     "internalName": "YouTube",
     "authors": [
@@ -1477,7 +1511,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 182830
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_AslanTV_v13.cs3",
@@ -1496,7 +1531,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 266887
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_BirdirbirIPTV_v28.cs3",
@@ -1514,11 +1550,12 @@
     "tvTypes": [
       "Live"
     ],
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 238394
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_Dexter_v1.cs3",
-    "status": 1,
+    "status": 3,
     "version": 1,
     "name": "Dexter",
     "internalName": "Dexter",
@@ -1534,7 +1571,8 @@
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/providers/Dexter.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 169006
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_SelcukSports_v12.cs3",
@@ -1553,7 +1591,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 174357
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_Taraftarium24_v14.cs3",
@@ -1572,7 +1611,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 175648
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TRGoals_v3.cs3",
@@ -1591,7 +1631,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 232719
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TurkSpor_v6.cs3",
@@ -1610,11 +1651,12 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 451878
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_WioSync_v2.cs3",
-    "status": 1,
+    "status": 3,
     "version": 2,
     "name": "WioSync",
     "internalName": "WioSync",
@@ -1629,7 +1671,8 @@
       "Others"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 167262
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_TRLive_v1.cs3",
@@ -1648,7 +1691,8 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRLive.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "filesize": 12265
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/Ripplay_OwnedSites_v2.cs3",

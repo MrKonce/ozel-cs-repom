@@ -726,6 +726,12 @@
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizilla v95' seçildi."
   },
   {
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizilla v95' seçildi."
+  },
+  {
     "name": "DiziMom",
     "internalName": "DiziMom",
     "source": "Feroxx Kekik",
@@ -768,16 +774,16 @@
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziYou v26' seçildi."
   },
   {
-    "name": "Dmax",
-    "internalName": "Dmax",
-    "source": "TurkSinema",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dmax v1' seçildi."
-  },
-  {
     "name": "DMax",
     "internalName": "DMax",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dmax v1' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DMax v2' seçildi."
+  },
+  {
+    "name": "Dmax",
+    "internalName": "Dmax",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DMax v2' seçildi."
   },
   {
     "name": "FilmMakinesi",
@@ -918,15 +924,15 @@
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
   },
   {
-    "name": "HDFilmizleBest",
-    "internalName": "HDFilmizleBest",
-    "source": "TurkSinema",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
-  },
-  {
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "source": "BTVault",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
+  },
+  {
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "source": "TurkSinema",
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v58' seçildi."
   },
   {
@@ -1299,61 +1305,61 @@
     "name": "DiziGom",
     "internalName": "DiziGom",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziGom v1' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziGom v3' seçildi."
   },
   {
     "name": "DiziMag",
     "internalName": "DiziMag",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMag v2' seçildi."
-  },
-  {
-    "name": "DiziPod",
-    "internalName": "DiziPod",
-    "source": "Feroxx Kekik",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziPod v3' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziMag v4' seçildi."
   },
   {
     "name": "Dizipod",
     "internalName": "Dizipod",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'DiziPod v3' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizipod v4' seçildi."
+  },
+  {
+    "name": "DiziPod",
+    "internalName": "DiziPod",
+    "source": "Feroxx Kekik",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Dizipod v4' seçildi."
   },
   {
     "name": "IzleAI",
     "internalName": "IzleAI",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'IzleAI v6' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'IzleAI v7' seçildi."
   },
   {
     "name": "powerDizi",
     "internalName": "powerDizi",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'powerDizi v1' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'powerDizi v2' seçildi."
   },
   {
     "name": "SporTV",
     "internalName": "SporTV",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SporTV v1' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'SporTV v2' seçildi."
   },
   {
     "name": "vavooSpor",
     "internalName": "vavooSpor",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'vavooSpor v2' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'vavooSpor v3' seçildi."
   },
   {
     "name": "XPrime",
     "internalName": "XPrime",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'XPrime v1' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'XPrime v2' seçildi."
   },
   {
     "name": "YouTube",
     "internalName": "YouTube",
     "source": "BTVault",
-    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YouTube v5' seçildi."
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'YouTube v6' seçildi."
   },
   {
     "name": "ArdaSpor",

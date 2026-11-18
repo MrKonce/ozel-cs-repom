@@ -19,10 +19,10 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `18.11.2026 - 17:53:02 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `19.11.2026 - 02:44:46 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2149.com`
 - 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
-- 🗑️ **Elenen Kopya / Yabancı Eklenti:** `242` adet ([broken_plugins.json](broken_plugins.json))
+- 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Hatası Engeli:** `Aktif (Transfer Uyuşmazlıkları Önlenmiştir)`
 
 ---
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **DiziMom** | `v64` | `tr` | Feroxx Kekik | 34.0 KB |
 | **DiziRella** | `v11` | `tr` | TurkSinema | 135.9 KB |
 | **DiziYou** | `v26` | `tr` | Feroxx Kekik | 15.6 KB |
-| **Dmax** | `v1` | `tr` | TurkSinema | 110.9 KB |
+| **DMax** | `v2` | `tr` | BTVault | 14.0 KB |
 | **FilmMakinesi** | `v59` | `tr` | Feroxx Kekik | 33.8 KB |
 | **FilmModu** | `v19` | `tr` | Feroxx Kekik | 16.1 KB |
 | **FlixNetwork** | `v7` | `tr` | TurkSinema | 110.4 KB |
@@ -95,15 +95,15 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **TurkceCizgiFilmArsivi** | `v1` | `tr` | TurkSinema | 106.6 KB |
 | **AnimeciX** | `v21` | `tr` | Feroxx Kekik | 25.9 KB |
 | **CanliTV** | `v10` | `tr` | Feroxx Kekik | 20.0 KB |
-| **DiziGom** | `v1` | `tr` | BTVault | 19.7 KB |
-| **DiziMag** | `v2` | `tr` | BTVault | 29.7 KB |
-| **DiziPod** | `v3` | `tr` | Feroxx Kekik | 23.0 KB |
-| **IzleAI** | `v6` | `tr` | BTVault | 28.8 KB |
-| **powerDizi** | `v1` | `tr` | BTVault | 20.0 KB |
-| **SporTV** | `v1` | `tr` | BTVault | 13.4 KB |
-| **vavooSpor** | `v2` | `tr` | BTVault | 21.3 KB |
-| **XPrime** | `v1` | `tr` | BTVault | 31.3 KB |
-| **YouTube** | `v5` | `tr` | BTVault | 16.7 KB |
+| **DiziGom** | `v3` | `tr` | BTVault | 24.8 KB |
+| **DiziMag** | `v4` | `tr` | BTVault | 40.5 KB |
+| **Dizipod** | `v4` | `tr` | BTVault | 19.9 KB |
+| **IzleAI** | `v7` | `tr` | BTVault | 28.8 KB |
+| **powerDizi** | `v2` | `tr` | BTVault | 20.0 KB |
+| **SporTV** | `v2` | `tr` | BTVault | 13.4 KB |
+| **vavooSpor** | `v3` | `tr` | BTVault | 21.3 KB |
+| **XPrime** | `v2` | `tr` | BTVault | 31.3 KB |
+| **YouTube** | `v6` | `tr` | BTVault | 16.7 KB |
 | **ArdaSpor** | `v12` | `tr` | TurkSpor | 178.5 KB |
 | **AslanTV** | `v13` | `tr` | TurkSpor | 260.6 KB |
 | **BirdirbirIPTV** | `v28` | `tr` | TurkSpor | 232.8 KB |
