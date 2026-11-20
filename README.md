@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `19.11.2026 - 17:58:56 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `20.11.2026 - 03:04:57 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2150.com`
 - 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
@@ -36,8 +36,8 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v27` | `tr` | TurkSinema | 229.0 KB |
 | **DiziPal (Orijinal) [TurkSinema]** | `v10` | `tr` | TurkSinema | 231.2 KB |
 | **DiziPal [Ripplay]** | `v48` | `tr` | Ripplay | 19.6 KB |
-| **DiziPal (Orijinal) [Feroxx Kekik]** | `v115` | `tr` | Feroxx Kekik | 31.5 KB |
-| **DiziPal [Feroxx Kekik]** | `v122` | `tr` | Feroxx Kekik | 37.4 KB |
+| **DiziPal (Orijinal) [Feroxx Kekik]** | `v116` | `tr` | Feroxx Kekik | 31.5 KB |
+| **DiziPal [Feroxx Kekik]** | `v123` | `tr` | Feroxx Kekik | 37.4 KB |
 | **AileTV** | `v5` | `tr` | TurkSinema | 116.8 KB |
 | **AltiYuzAltmisAltiFilmIzle** | `v8` | `tr` | TurkSinema | 103.8 KB |
 | **AniArsiv** | `v1` | `tr` | TurkSinema | 107.9 KB |
