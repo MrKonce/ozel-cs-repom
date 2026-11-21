@@ -8,7 +8,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔥 Doğrulanan Aktif Domain: https://dizipal2150.com | Otomatik Güncellendi.",
+    "description": "🔥 Doğrulanan Aktif Domain: https://dizipal1.rest | Otomatik Güncellendi.",
     "fileSize": 234530,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
@@ -67,30 +67,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPalOriginal_v116.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v124.cs3",
     "status": 1,
-    "version": 116,
-    "name": "DiziPal (Orijinal) [Feroxx Kekik]",
-    "internalName": "DiziPalOriginal_FeroxxKekik",
-    "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
-    ],
-    "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
-    "fileSize": 32224,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie"
-    ],
-    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
-    "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v123.cs3",
-    "status": 1,
-    "version": 123,
+    "version": 124,
     "name": "DiziPal [Feroxx Kekik]",
     "internalName": "DiziPal_FeroxxKekik",
     "authors": [
@@ -98,7 +77,7 @@
       "muratcesmecioglu"
     ],
     "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
-    "fileSize": 38332,
+    "fileSize": 39929,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -106,6 +85,27 @@
       "Movie"
     ],
     "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPalOriginal_v117.cs3",
+    "status": 1,
+    "version": 117,
+    "name": "DiziPal (Orijinal) [Feroxx Kekik]",
+    "internalName": "DiziPalOriginal_FeroxxKekik",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
+    "fileSize": 44410,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
     "apiVersion": 1
   },
   {
@@ -458,16 +458,16 @@
     "filesize": 139230
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v95.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v96.cs3",
     "status": 1,
-    "version": 95,
+    "version": 96,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "keyiflerolsun"
     ],
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 28180,
+    "fileSize": 33636,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -619,9 +619,9 @@
     "filesize": 113019
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_HDFilmCehennemi_v58.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_HDFilmCehennemi_v59.cs3",
     "status": 1,
-    "version": 58,
+    "version": 59,
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
     "authors": [
@@ -629,7 +629,7 @@
       "keyiflerolsun"
     ],
     "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-    "fileSize": 48578,
+    "fileSize": 142050,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
