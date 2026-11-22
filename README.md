@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `22.11.2026 - 16:56:08 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `23.11.2026 - 02:06:13 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal1.rest`
 - 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v27` | `tr` | TurkSinema | 229.0 KB |
 | **DiziPal (Orijinal) [TurkSinema]** | `v10` | `tr` | TurkSinema | 231.2 KB |
 | **DiziPal [Ripplay]** | `v48` | `tr` | Ripplay | 19.6 KB |
-| **DiziPal [Feroxx Kekik]** | `v124` | `tr` | Feroxx Kekik | 39.0 KB |
+| **DiziPal [Feroxx Kekik]** | `v125` | `tr` | Feroxx Kekik | 39.0 KB |
 | **DiziPal (Orijinal) [Feroxx Kekik]** | `v117` | `tr` | Feroxx Kekik | 43.4 KB |
 | **AileTV** | `v5` | `tr` | TurkSinema | 116.8 KB |
 | **AltiYuzAltmisAltiFilmIzle** | `v8` | `tr` | TurkSinema | 103.8 KB |
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **TLCtr** | `v19` | `tr` | Feroxx Kekik | 13.9 KB |
 | **TrAnimeIzle** | `v4` | `tr` | TurkSinema | 108.4 KB |
 | **WebteIzle** | `v21` | `tr` | Feroxx Kekik | 23.6 KB |
-| **WioSpor** | `v58` | `tr` | TurkSpor | 823.9 KB |
+| **WioSpor** | `v59` | `tr` | TurkSpor | 826.6 KB |
 | **YabanciDizi** | `v9` | `tr` | Ripplay | 46.5 KB |
 | **TRanimaci** | `v19` | `tr` | Feroxx Kekik | 16.5 KB |
 | **WebDramaTurkey** | `v10` | `tr` | TurkSinema | 137.2 KB |
