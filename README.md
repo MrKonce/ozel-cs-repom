@@ -1,6 +1,6 @@
 # ⚡ CloudStream Süper Repo (Otonom & DiziPal VIP Korumalı)
 
-> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal2150.com** *(Otonom Doğrulandı)*
+> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal1.rest** *(Otonom Doğrulandı)*
 
 > **En kaliteli Türkçe CloudStream eklentilerini (.cs3) sıfır önbellek gecikmesiyle sunan,**
 > **DiziPal VIP korumalı, tam tekilleştirilmiş ve SHA256 hatasız süper repo.**
@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `22.11.2026 - 07:21:58 (TSİ / GMT+3)`
-- 🌟 **Aktif DiziPal Adresi:** `https://dizipal2150.com`
+- 🕒 **Son Güncelleme:** `22.11.2026 - 16:56:08 (TSİ / GMT+3)`
+- 🌟 **Aktif DiziPal Adresi:** `https://dizipal1.rest`
 - 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Hatası Engeli:** `Aktif (Transfer Uyuşmazlıkları Önlenmiştir)`
@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **TLCtr** | `v19` | `tr` | Feroxx Kekik | 13.9 KB |
 | **TrAnimeIzle** | `v4` | `tr` | TurkSinema | 108.4 KB |
 | **WebteIzle** | `v21` | `tr` | Feroxx Kekik | 23.6 KB |
-| **WioSpor** | `v56` | `tr` | TurkSpor | 816.1 KB |
+| **WioSpor** | `v58` | `tr` | TurkSpor | 823.9 KB |
 | **YabanciDizi** | `v9` | `tr` | Ripplay | 46.5 KB |
 | **TRanimaci** | `v19` | `tr` | Feroxx Kekik | 16.5 KB |
 | **WebDramaTurkey** | `v10` | `tr` | TurkSinema | 137.2 KB |
