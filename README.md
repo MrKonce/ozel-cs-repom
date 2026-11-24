@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `24.11.2026 - 06:40:23 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `24.11.2026 - 19:47:16 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2150.com`
 - 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
