@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalHub_v27.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalHub_v28.cs3",
     "status": 3,
-    "version": 27,
+    "version": 28,
     "name": "⭐ DiziPal [EN GÜNCEL - Aktif]",
     "internalName": "DiziPalOriginal",
     "authors": [
       "Wiojelt"
     ],
     "description": "🔥 Doğrulanan Aktif Domain: https://dizipal2150.com | Otomatik Güncellendi.",
-    "fileSize": 234530,
+    "fileSize": 242385,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -19,8 +19,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
-    "apiVersion": 1,
-    "filesize": 234530
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalOriginal_v10.cs3",
@@ -42,8 +41,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
-    "apiVersion": 1,
-    "filesize": 236781
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/Ripplay_DiziPal_v48.cs3",
@@ -126,8 +124,7 @@
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/ailetv.png",
-    "apiVersion": 1,
-    "filesize": 119619
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AltiYuzAltmisAltiFilmIzle_v8.cs3",
@@ -149,8 +146,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
-    "apiVersion": 1,
-    "filesize": 106334
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AniArsiv_v1.cs3",
@@ -171,8 +167,7 @@
       "OVA"
     ],
     "iconUrl": "https://aniarsiv.com/favicon.ico",
-    "apiVersion": 1,
-    "filesize": 110540
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_AnizmProvider_v24.cs3",
@@ -193,8 +188,7 @@
       "OVA"
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
-    "apiVersion": 1,
-    "filesize": 113819
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_BelgeselX_v17.cs3",
@@ -234,8 +228,7 @@
       "TvSeries"
     ],
     "iconUrl": "https://bingebang.st/icon-512.png",
-    "apiVersion": 1,
-    "filesize": 125514
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_CizgiMax_v17.cs3",
@@ -278,8 +271,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "filesize": 149656
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_CNCVerseNetflix_v8.cs3",
@@ -301,8 +293,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "filesize": 149688
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_CNCVersePrimeVideo_v8.cs3",
@@ -324,8 +315,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
-    "apiVersion": 1,
-    "filesize": 149701
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Ddizi_v24.cs3",
@@ -366,8 +356,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
-    "apiVersion": 1,
-    "filesize": 119156
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziBal_v8.cs3",
@@ -389,8 +378,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "apiVersion": 1,
-    "filesize": 139169
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziBol_v8.cs3",
@@ -412,8 +400,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
-    "apiVersion": 1,
-    "filesize": 139195
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziBox_v26.cs3",
@@ -454,8 +441,7 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
-    "apiVersion": 1,
-    "filesize": 139230
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v96.cs3",
@@ -515,8 +501,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
-    "apiVersion": 1,
-    "filesize": 139197
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziYou_v26.cs3",
@@ -615,8 +600,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
-    "apiVersion": 1,
-    "filesize": 113019
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_HDFilmCehennemi_v59.cs3",
@@ -658,8 +642,7 @@
       "AsianDrama"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/hintfilmizle_icon.png",
-    "apiVersion": 1,
-    "filesize": 166127
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_InatBox_v30.cs3",
@@ -702,8 +685,7 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128",
-    "apiVersion": 1,
-    "filesize": 103804
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_JetFilmizle_v48.cs3",
@@ -763,8 +745,7 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128",
-    "apiVersion": 1,
-    "filesize": 113561
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_MinikaGO_v3.cs3",
@@ -785,8 +766,7 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
-    "apiVersion": 1,
-    "filesize": 113547
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSpor_NewTVLive_v4.cs3",
@@ -828,8 +808,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
-    "apiVersion": 1,
-    "filesize": 113835
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_RecTV_v118.cs3",
@@ -873,8 +852,7 @@
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.app&sz=128",
-    "apiVersion": 1,
-    "filesize": 294472
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_SetFilmIzle_v32.cs3",
@@ -916,8 +894,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
-    "apiVersion": 1,
-    "filesize": 124477
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_SinemaCX_v26.cs3",
@@ -958,8 +935,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemacc.com&sz=128",
-    "apiVersion": 1,
-    "filesize": 111353
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Sinemakolik_v1.cs3",
@@ -981,8 +957,7 @@
       "Documentary"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
-    "apiVersion": 1,
-    "filesize": 122209
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_SinemaTV_v9.cs3",
@@ -1004,8 +979,7 @@
       "Cartoon"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png",
-    "apiVersion": 1,
-    "filesize": 135132
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_TLCtr_v19.cs3",
@@ -1045,8 +1019,7 @@
       "OVA"
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
-    "apiVersion": 1,
-    "filesize": 111020
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_WebteIzle_v21.cs3",
@@ -1146,8 +1119,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 140524,
-    "apiVersion": 1,
-    "filesize": 140524
+    "apiVersion": 1
   },
   {
     "name": "AsyaWatch",
@@ -1167,8 +1139,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 121700,
-    "apiVersion": 1,
-    "filesize": 121700
+    "apiVersion": 1
   },
   {
     "name": "DiziWatch",
@@ -1188,8 +1159,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 110804,
-    "apiVersion": 1,
-    "filesize": 110804
+    "apiVersion": 1
   },
   {
     "name": "Konflix",
@@ -1210,8 +1180,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 113599,
-    "apiVersion": 1,
-    "filesize": 113599
+    "apiVersion": 1
   },
   {
     "name": "SeyirTURK",
@@ -1232,8 +1201,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 219696,
-    "apiVersion": 1,
-    "filesize": 219696
+    "apiVersion": 1
   },
   {
     "name": "One Pace TR",
@@ -1253,8 +1221,7 @@
     "language": "tr",
     "status": 1,
     "fileSize": 112909,
-    "apiVersion": 1,
-    "filesize": 112909
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_TurkceCizgiFilmArsivi_v1.cs3",
@@ -1275,8 +1242,26 @@
       "Movie"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=turkcecizgifilmarsivi.online&sz=128",
-    "apiVersion": 1,
-    "filesize": 109197
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_Wfilmizle_v1.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "Wfilmizle",
+    "internalName": "Wfilmizle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Wfilmizle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 118964,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.click&sz=128",
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_AnimeciX_v21.cs3",

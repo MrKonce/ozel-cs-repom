@@ -19,21 +19,21 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `24.11.2026 - 19:47:16 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `25.11.2026 - 04:48:03 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2150.com`
-- 📦 **Aktif Öz Türkçe Eklenti:** `87` adet (Tekilleştirilmiş)
-- 🗑️ **Elenen Kopya / Yabancı Eklenti:** `243` adet ([broken_plugins.json](broken_plugins.json))
+- 📦 **Aktif Öz Türkçe Eklenti:** `88` adet (Tekilleştirilmiş)
+- 🗑️ **Elenen Kopya / Yabancı Eklenti:** `244` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Hatası Engeli:** `Aktif (Transfer Uyuşmazlıkları Önlenmiştir)`
 
 ---
 
 ## 📦 Aktif Eklentiler Listesi
 
-<details open><summary><b>Toplam 87 Çalışan Eklentiyi Göster</b></summary>
+<details open><summary><b>Toplam 88 Çalışan Eklentiyi Göster</b></summary>
 
 | Eklenti Adı | Sürüm | Dil | Kaynak | Dosya Boyutu |
 |:---|:---:|:---:|:---|:---:|
-| **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v27` | `tr` | TurkSinema | 229.0 KB |
+| **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v28` | `tr` | TurkSinema | 236.7 KB |
 | **DiziPal (Orijinal) [TurkSinema]** | `v10` | `tr` | TurkSinema | 231.2 KB |
 | **DiziPal [Ripplay]** | `v48` | `tr` | Ripplay | 19.6 KB |
 | **DiziPal [Feroxx Kekik]** | `v125` | `tr` | Feroxx Kekik | 39.0 KB |
@@ -93,6 +93,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **SeyirTURK** | `v13` | `tr` | TurkSinema | 214.5 KB |
 | **One Pace TR** | `v1` | `tr` | TurkSinema | 110.3 KB |
 | **TurkceCizgiFilmArsivi** | `v1` | `tr` | TurkSinema | 106.6 KB |
+| **Wfilmizle** | `v1` | `tr` | TurkSinema | 116.2 KB |
 | **AnimeciX** | `v21` | `tr` | Feroxx Kekik | 25.9 KB |
 | **CanliTV** | `v10` | `tr` | Feroxx Kekik | 20.0 KB |
 | **DiziGom** | `v3` | `tr` | BTVault | 24.8 KB |

@@ -866,13 +866,13 @@
   {
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
-    "source": "Ripplay",
+    "source": "TurkSinema",
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v59' seçildi."
   },
   {
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
-    "source": "TurkSinema",
+    "source": "Ripplay",
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'HDFilmCehennemi v59' seçildi."
   },
   {
@@ -1276,6 +1276,12 @@
     "internalName": "TurkceCizgiFilmArsivi",
     "source": "TurkSinema",
     "reason": "Tekilleştirme yapıldı; daha güncel olan 'TurkceCizgiFilmArsivi v1' seçildi."
+  },
+  {
+    "name": "Wfilmizle",
+    "internalName": "Wfilmizle",
+    "source": "TurkSinema",
+    "reason": "Tekilleştirme yapıldı; daha güncel olan 'Wfilmizle v1' seçildi."
   },
   {
     "name": "AnimeciX",
