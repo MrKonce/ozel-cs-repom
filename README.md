@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `25.11.2026 - 19:34:46 (TSİ / GMT+3)`
+- 🕒 **Son Güncelleme:** `26.11.2026 - 04:23:32 (TSİ / GMT+3)`
 - 🌟 **Aktif DiziPal Adresi:** `https://dizipal2161.com`
 - 📦 **Aktif Öz Türkçe Eklenti:** `88` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `244` adet ([broken_plugins.json](broken_plugins.json))
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v28` | `tr` | TurkSinema | 236.7 KB |
 | **DiziPal (Orijinal) [TurkSinema]** | `v10` | `tr` | TurkSinema | 231.2 KB |
 | **DiziPal [Ripplay]** | `v48` | `tr` | Ripplay | 19.6 KB |
-| **DiziPal [Feroxx Kekik]** | `v125` | `tr` | Feroxx Kekik | 39.0 KB |
+| **DiziPal [Feroxx Kekik]** | `v126` | `tr` | Feroxx Kekik | 39.0 KB |
 | **DiziPal (Orijinal) [Feroxx Kekik]** | `v117` | `tr` | Feroxx Kekik | 43.4 KB |
 | **AileTV** | `v5` | `tr` | TurkSinema | 116.8 KB |
 | **AltiYuzAltmisAltiFilmIzle** | `v8` | `tr` | TurkSinema | 103.8 KB |
@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **DiziBol** | `v8` | `tr` | TurkSinema | 135.9 KB |
 | **DiziBox** | `v26` | `tr` | Feroxx Kekik | 30.7 KB |
 | **DiziFilmIzle** | `v8` | `tr` | TurkSinema | 136.0 KB |
-| **Dizilla** | `v96` | `tr` | Feroxx Kekik | 32.8 KB |
+| **Dizilla** | `v97` | `tr` | Feroxx Kekik | 35.1 KB |
 | **DiziMom** | `v64` | `tr` | Feroxx Kekik | 34.0 KB |
 | **DiziRella** | `v11` | `tr` | TurkSinema | 135.9 KB |
 | **DiziYou** | `v26` | `tr` | Feroxx Kekik | 15.6 KB |
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **OwnedSites** | `v2` | `tr` | Ripplay | 44.1 KB |
 | **AsyaAnimeleri** | `v1` | `tr` | Feroxx Kekik | 13.4 KB |
 | **DiziKorea** | `v41` | `tr` | Feroxx Kekik | 23.0 KB |
-| **Sinewix** | `v4` | `tr` | Feroxx Kekik | 26.1 KB |
+| **Sinewix** | `v5` | `tr` | Feroxx Kekik | 26.1 KB |
 | **TRasyalog** | `v66` | `tr` | Feroxx Kekik | 22.6 KB |
 | **TurkAnime** | `v14` | `tr` | Feroxx Kekik | 18.6 KB |
 

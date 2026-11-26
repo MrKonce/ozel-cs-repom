@@ -65,9 +65,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v125.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v126.cs3",
     "status": 1,
-    "version": 125,
+    "version": 126,
     "name": "DiziPal [Feroxx Kekik]",
     "internalName": "DiziPal_FeroxxKekik",
     "authors": [
@@ -75,7 +75,7 @@
       "muratcesmecioglu"
     ],
     "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
-    "fileSize": 39927,
+    "fileSize": 39931,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -444,16 +444,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v96.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Dizilla_v97.cs3",
     "status": 1,
-    "version": 96,
+    "version": 97,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
       "keyiflerolsun"
     ],
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "fileSize": 33636,
+    "fileSize": 35951,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -1737,9 +1737,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Sinewix_v4.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_Sinewix_v5.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Sinewix",
     "internalName": "Sinewix",
     "authors": [
@@ -1747,7 +1747,7 @@
       "keyiflerolsun"
     ],
     "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması",
-    "fileSize": 26760,
+    "fileSize": 26761,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
