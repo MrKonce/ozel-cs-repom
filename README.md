@@ -1,6 +1,6 @@
 # ⚡ CloudStream Süper Repo (Otonom & DiziPal VIP Korumalı)
 
-> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal2162.com** *(Otonom Doğrulandı)*
+> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal1.rest** *(Otonom Doğrulandı)*
 
 > **En kaliteli Türkçe CloudStream eklentilerini (.cs3) sıfır önbellek gecikmesiyle sunan,**
 > **DiziPal VIP korumalı, tam tekilleştirilmiş ve SHA256 hatasız süper repo.**
@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `27.11.2026 - 04:21:34 (TSİ / GMT+3)`
-- 🌟 **Aktif DiziPal Adresi:** `https://dizipal2162.com`
+- 🕒 **Son Güncelleme:** `27.11.2026 - 18:54:41 (TSİ / GMT+3)`
+- 🌟 **Aktif DiziPal Adresi:** `https://dizipal1.rest`
 - 📦 **Aktif Öz Türkçe Eklenti:** `88` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `244` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Hatası Engeli:** `Aktif (Transfer Uyuşmazlıkları Önlenmiştir)`
