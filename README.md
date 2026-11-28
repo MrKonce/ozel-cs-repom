@@ -1,6 +1,6 @@
 # ⚡ CloudStream Süper Repo (Otonom & DiziPal VIP Korumalı)
 
-> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal1.rest** *(Otonom Doğrulandı)*
+> ### 🔥 Güncel Aktif DiziPal Adresi: **https://dizipal2162.com** *(Otonom Doğrulandı)*
 
 > **En kaliteli Türkçe CloudStream eklentilerini (.cs3) sıfır önbellek gecikmesiyle sunan,**
 > **DiziPal VIP korumalı, tam tekilleştirilmiş ve SHA256 hatasız süper repo.**
@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 ## 📊 Genel Durum & İstatistikler
 
-- 🕒 **Son Güncelleme:** `27.11.2026 - 18:54:41 (TSİ / GMT+3)`
-- 🌟 **Aktif DiziPal Adresi:** `https://dizipal1.rest`
+- 🕒 **Son Güncelleme:** `28.11.2026 - 03:55:08 (TSİ / GMT+3)`
+- 🌟 **Aktif DiziPal Adresi:** `https://dizipal2162.com`
 - 📦 **Aktif Öz Türkçe Eklenti:** `88` adet (Tekilleştirilmiş)
 - 🗑️ **Elenen Kopya / Yabancı Eklenti:** `244` adet ([broken_plugins.json](broken_plugins.json))
 - 🛡️ **SHA256 Hatası Engeli:** `Aktif (Transfer Uyuşmazlıkları Önlenmiştir)`
@@ -33,17 +33,17 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 
 | Eklenti Adı | Sürüm | Dil | Kaynak | Dosya Boyutu |
 |:---|:---:|:---:|:---|:---:|
-| **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v28` | `tr` | TurkSinema | 236.7 KB |
+| **⭐ DiziPal [EN GÜNCEL - Aktif]** | `v29` | `tr` | TurkSinema | 237.0 KB |
 | **DiziPal (Orijinal) [TurkSinema]** | `v10` | `tr` | TurkSinema | 231.2 KB |
 | **DiziPal [Ripplay]** | `v48` | `tr` | Ripplay | 19.6 KB |
-| **DiziPal [Feroxx Kekik]** | `v126` | `tr` | Feroxx Kekik | 39.0 KB |
+| **DiziPal [Feroxx Kekik]** | `v127` | `tr` | Feroxx Kekik | 39.0 KB |
 | **DiziPal (Orijinal) [Feroxx Kekik]** | `v117` | `tr` | Feroxx Kekik | 43.4 KB |
 | **AileTV** | `v5` | `tr` | TurkSinema | 116.8 KB |
 | **AltiYuzAltmisAltiFilmIzle** | `v8` | `tr` | TurkSinema | 103.8 KB |
 | **AniArsiv** | `v1` | `tr` | TurkSinema | 107.9 KB |
 | **AnizmProvider** | `v24` | `tr` | TurkSinema | 111.2 KB |
 | **BelgeselX** | `v17` | `tr` | Feroxx Kekik | 30.4 KB |
-| **BingeBang** | `v2` | `all` | TurkSinema | 122.6 KB |
+| **BingeBang** | `v3` | `all` | TurkSinema | 128.3 KB |
 | **CizgiMax** | `v17` | `tr` | Feroxx Kekik | 54.4 KB |
 | **CNCVerseDisneyPlus** | `v8` | `tr` | TurkSinema | 146.1 KB |
 | **CNCVerseNetflix** | `v8` | `tr` | TurkSinema | 146.2 KB |
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/repo.json
 | **Sinemakolik** | `v1` | `tr` | TurkSinema | 119.3 KB |
 | **SinemaTV** | `v9` | `az` | TurkSinema | 132.0 KB |
 | **TLCtr** | `v19` | `tr` | Feroxx Kekik | 13.9 KB |
-| **TrAnimeIzle** | `v4` | `tr` | TurkSinema | 108.4 KB |
+| **TrAnimeIzle** | `v4` | `tr` | TurkSinema | 114.4 KB |
 | **WebteIzle** | `v21` | `tr` | Feroxx Kekik | 23.6 KB |
 | **WioSpor** | `v59` | `tr` | TurkSpor | 826.6 KB |
 | **YabanciDizi** | `v9` | `tr` | Ripplay | 46.5 KB |

@@ -1,15 +1,15 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalHub_v28.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_DiziPalHub_v29.cs3",
     "status": 3,
-    "version": 28,
+    "version": 29,
     "name": "⭐ DiziPal [EN GÜNCEL - Aktif]",
     "internalName": "DiziPalOriginal",
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔥 Doğrulanan Aktif Domain: https://dizipal1.rest | Otomatik Güncellendi.",
-    "fileSize": 242385,
+    "description": "🔥 Doğrulanan Aktif Domain: https://dizipal2162.com | Otomatik Güncellendi.",
+    "fileSize": 242650,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -65,9 +65,9 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v126.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/FeroxxKekik_DiziPal_v127.cs3",
     "status": 1,
-    "version": 126,
+    "version": 127,
     "name": "DiziPal [Feroxx Kekik]",
     "internalName": "DiziPal_FeroxxKekik",
     "authors": [
@@ -75,7 +75,7 @@
       "muratcesmecioglu"
     ],
     "description": "[Feroxx Kekik Yedek Alternatifi] DiziPal Eklentisi.",
-    "fileSize": 39931,
+    "fileSize": 39928,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -211,16 +211,16 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_BingeBang_v2.cs3",
+    "url": "https://raw.githubusercontent.com/MrKonce/ozel-cs-repom/main/builds/TurkSinema_BingeBang_v3.cs3",
     "status": 3,
-    "version": 2,
+    "version": 3,
     "name": "BingeBang",
     "internalName": "BingeBang",
     "authors": [
       "Wiojelt"
     ],
     "description": "BingeBang - Film ve Dizi Portali (bingebang.st). 4K Ultra HD ve Full HD HLS akislari.",
-    "fileSize": 125514,
+    "fileSize": 131397,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "all",
     "tvTypes": [
@@ -1010,7 +1010,7 @@
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 111020,
+    "fileSize": 117155,
     "repositoryUrl": "https://github.com/Wiojelt/test",
     "language": "tr",
     "tvTypes": [
